@@ -3,30 +3,10 @@ import ReactDOM from 'react-dom/client';
 import './index.scss';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import { createBrowserRouter, RouterProvider } from 'react-router-dom';
-
-const Map = React.lazy(() => import('./components/map/MapPage'));
-
-
-const router = createBrowserRouter([
-    {
-        path: "/",
-        element: <App />,
-        errorElement: <p>error</p>
-    },
-    {
-        path: "/map",
-        element: <Map />,
-    },
-    {
-        path: "/test",
-        element: <p>ana are mere</p>,
-    },
-]);
 
 const root = ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
     <React.StrictMode>
-        <RouterProvider router={router} />
+        <App />
     </React.StrictMode>
 );
 

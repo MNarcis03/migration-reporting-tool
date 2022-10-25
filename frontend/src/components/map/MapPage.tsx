@@ -1,13 +1,13 @@
-import './MapPage.scss';
+import { FC } from 'react';
+import MapComponent from './MapComponent';
+import styles from './MapPage.module.scss';
 
-function MapPage() {
+interface MapPageProps { }
+
+const MapPage: FC<MapPageProps> = () => {
     return (
-        <div className="App">
-            <header className="App-header">
-                <p>
-                    This is the map page.
-                </p>
-            </header>
+        <div className={styles.mapContainer}>
+            <MapComponent />
         </div>
     );
 }
