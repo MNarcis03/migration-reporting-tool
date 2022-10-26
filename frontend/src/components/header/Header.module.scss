@@ -2,19 +2,64 @@
 
 .header {
     display: flex;
-    flex-direction: column;
-    justify-content: center;
+    flex-direction: row;
+    justify-content: space-between;
     align-items: center;
     width: 100vmax;
     height: 10vh;
+    padding: 0 2rem;
     background-color: $surface;
-    color: white;
+    color: $onSurface;
     font-size: calc(10px + 2vmin);
 
-    .logo {
-        height: 4rem;
-        pointer-events: none;
+    .logoContainer {
+        display: flex;
+        flex-grow: 1;
+        
+        .logo {
+            height: 4rem;
+            pointer-events: none;
+        }
+    }
 
+    .menu {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        flex-grow: 1;
+        height: 100%;
+        
+        
+        a {
+            height: inherit;
+            color: $onSurface;
+            text-decoration: none;
+            
+            div {
+                display: flex;
+                height: inherit;
+                align-items: center;
+                padding: 2rem;
+
+                span {
+                    font-size: 1.5rem;
+                    font-weight: bold;
+                    letter-spacing: 1px;
+                    text-decoration: underline;
+                    text-decoration-color: transparent;
+                    transition: .2s;
+                }
+
+                &:hover span {
+                    text-decoration-color: $onSurface;
+                }
+            }
+        }
+    }
+
+    .settings {
+        flex-grow: 1;
     }
 }
 
