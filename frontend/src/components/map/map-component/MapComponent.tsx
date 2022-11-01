@@ -9,7 +9,7 @@ const MapComponent: FC<MapComponentProps> = () => {
     const position: LatLngTuple = [51, 0];
 
     return (
-        <MapContainer center={position} zoom={5} maxZoom={6} minZoom={2} scrollWheelZoom={true} className={styles.leafletMap}>
+        <MapContainer center={position} zoom={5} maxZoom={5} minZoom={3} scrollWheelZoom={true} className={styles.leafletMap}>
             <TileLayer
                 attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
                 url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
@@ -20,7 +20,7 @@ const MapComponent: FC<MapComponentProps> = () => {
                 </Popup>
             </Marker>
         </MapContainer>
-    )
+    );
 };
 
 export default MapComponent;

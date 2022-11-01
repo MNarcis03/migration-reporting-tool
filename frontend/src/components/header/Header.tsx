@@ -1,16 +1,20 @@
 import React, { FC } from 'react';
 import { ReactComponent as Logo } from './logo.svg';
 import styles from './Header.module.scss';
-import { useNavigate, useNavigation } from 'react-router-dom';
+import { Link, useNavigate, useNavigation } from 'react-router-dom';
 
 interface HeaderProps { }
 
 const Header: FC<HeaderProps> = () => {
 
-    // const navigate = useNavigate();
+    const navigate = useNavigate();
 
     const goToStatistics = () => {
-        // navigate('/statistics');
+        navigate('/statistics');
+    }
+
+    const goToMap = () => {
+        navigate('/map');
     }
 
     return (
@@ -19,14 +23,14 @@ const Header: FC<HeaderProps> = () => {
                 <Logo className={styles.logo} />
             </div>
             <div className={styles.menu}>
-                <a href="/statistics" onClick={ goToStatistics }>
+                <a onClick={ goToStatistics }>
                     <div>
                         <span>
                             Statistics
                         </span>
                     </div>
                 </a>
-                <a href="/map">
+                <a onClick={ goToMap }>
                     <div>
                         <span>
                             Map

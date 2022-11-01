@@ -1,11 +1,13 @@
 import { createTheme, ThemeProvider } from '@mui/material';
 import React from 'react';
-import { createBrowserRouter, RouterProvider } from 'react-router-dom';
+import { BrowserRouter, createBrowserRouter, Navigate, Route, RouterProvider, Routes } from 'react-router-dom';
 import styles from './App.module.scss';
 import Header from './components/header/Header';
-import Statistics from './components/statistics/statistics';
+import Statistics from './components/statistics/StatisticsPage';
+import { COLOR_BACKGROUND, COLOR_ON_SURFACE, COLOR_ON_SURFACE_VARIANT, COLOR_PRIMARY } from './styling/colors';
 
-const Map = React.lazy(() => import('./components/map/MapPage'));
+const MapPage = React.lazy(() => import('./components/map/MapPage'));
+const StatisticsPage = React.lazy(() => import('./components/statistics/StatisticsPage'));
 
 const router = createBrowserRouter([
     {
@@ -15,7 +17,7 @@ const router = createBrowserRouter([
     },
     {
         path: "/map",
-        element: <Map />,
+        element: <MapPage />,
     },
     {
         path: "/statistics",
@@ -24,23 +26,23 @@ const router = createBrowserRouter([
 ]);
 
 const theme = createTheme({
-    components: {
-        MuiDatePicker: {
-            styleOverrides: {
-                root: {
-                    color: '#ff0000',
-                    primary: {
-                        // light: '#ff0000',
-                        main: '#ffffff',
-                        // dark: '#000000'
-                    },
-                    backgroundColor: 'red',
+    // components: {
+    //     MuiDatePicker: {
+    //         styleOverrides: {
+    //             root: {
+    //                 color: '#ff0000',
+    //                 primary: {
+    //                     // light: '#ff0000',
+    //                     main: '#ffffff',
+    //                     // dark: '#000000'
+    //                 },
+    //                 backgroundColor: 'red',
 
 
-                },
-            },
-        },
-    },
+    //             },
+    //         },
+    //     },
+    // },
     palette: {
         // primary: {
         //     light: '#757ce8',
@@ -56,26 +58,33 @@ const theme = createTheme({
         //   },
         primary: {
             // light: '#ff0000',
-            main: '#ffffff',
-            // dark: '#000000'
+            main: COLOR_PRIMARY,
+            dark: COLOR_PRIMARY,
+            contrastText: COLOR_BACKGROUND
         },
-        // secondary: {
-        //     light: '#0066ff',
-        //     main: '#0044ff',
-        //     // dark: will be calculated from palette.secondary.main,
-        //     contrastText: '#ffcc00',
-        // },
+        text: {
+            primary: COLOR_ON_SURFACE,
+            secondary: COLOR_ON_SURFACE_VARIANT,
+            disabled: '#ff0077'
+        },
     },
 });
 
 function App() {
     return (
         <ThemeProvider theme={theme}>
-
-            <div className={styles.app}>
-                <Header />
-                <RouterProvider router={router} />
-            </div>
+            <BrowserRouter>
+                <div className={styles.app}>
+                    <Header />
+                    <Routes>
+                        <Route path="/statistics" element={<StatisticsPage />} />
+                        <Route path="/map" element={<MapPage />} />
+                        <Route path="*" element={<Navigate to={'/map'} />}>
+                            
+                        </Route>
+                    </Routes>
+                </div>
+            </BrowserRouter>
         </ThemeProvider>
     );
 }

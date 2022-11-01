@@ -1,4 +1,4 @@
-@import '/src/styling/vars.scss';
+@import '/src/styling/colors.scss';
 
 .header {
     display: flex;
@@ -19,6 +19,10 @@
         .logo {
             height: 4rem;
             pointer-events: none;
+
+            g {
+                fill: $primary;
+            }
         }
     }
 
@@ -35,6 +39,7 @@
             height: inherit;
             color: $onSurface;
             text-decoration: none;
+            cursor: pointer;
             
             div {
                 display: flex;

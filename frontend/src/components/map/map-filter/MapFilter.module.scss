@@ -1,28 +1,28 @@
-@import '/src/styling/vars.scss';
+@import '/src/styling/colors.scss';
 
 .mapFilter {
 
     .datePicker {
 
-        input {
-            color: $onSurface;
-        }
+        // input {
+        //     color: $onSurface;
+        // }
 
-        label {
-            color: $onSurfaceVariant;
-        }
+        // label {
+        //     color: $onSurfaceVariant;
+        // }
 
-        button {
-            color: $onSurface;
-        }
+        // button {
+        //     color: $onSurface;
+        // }
 
-        fieldset {
-            border-color: $onSurfaceVariant;
+        // fieldset {
+        //     border-color: $onSurfaceVariant;
 
-        }
+        // }
         
         .MuiInputBase-root:hover fieldset {
-            border-color: $onSurface;
+            // border-color: $onSurface;
 
         }
     }

@@ -8,8 +8,8 @@ interface MapPageProps { }
 const MapPage: FC<MapPageProps> = () => {
     return (
         <div className={styles.mapContainer}>
-            <MapFilter />
-            <MapComponent />
+            <MapFilter data-testid="filter" />
+            <MapComponent data-testid="map" />
         </div>
     );
 }

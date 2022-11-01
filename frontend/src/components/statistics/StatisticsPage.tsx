@@ -1,5 +1,5 @@
 import React, { FC } from 'react';
-import styles from './statistics.module.scss';
+import styles from './StatisticsPage.module.scss';
 
 interface StatisticsProps {}
 

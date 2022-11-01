@@ -35,10 +35,11 @@ const MapFilter: FC<MapFilterProps> = () => {
                     renderInput={(params: any) => <TextField {...params} helperText={null} />}
                     InputProps={{
                         sx: {
-                            '& .MuiSvgIcon-root': { color: COLOR_ON_SURFACE },
-                            '& .MuiInputBase-input': { color: COLOR_ON_SURFACE},
-                            '& .MuiInputLabel-root': { color: COLOR_ON_SURFACE},
-                            '& .MuiInputBase-root': { border: '1px solid red'},
+                            // '& .MuiSvgIcon-root': { color: COLOR_ON_SURFACE },
+                            // '& .MuiInputBase-input': { color: COLOR_ON_SURFACE},
+                            // '& .MuiInputLabel-root': { color: COLOR_ON_SURFACE},
+                            // '& .MuiInputBase-root': { border: '1px solid red'},
+                            // '& .MuiInputBase-root:hover': { border: '1px solid red'},
                         }
                     }}
                 />
