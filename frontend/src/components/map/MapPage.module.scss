@@ -6,4 +6,11 @@
     padding: 2rem;
     // border: 1px solid black;
     z-index: 1;
+
+    .mapFilters {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        width: 100%;
+    }
 }
