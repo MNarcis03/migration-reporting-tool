@@ -53,11 +53,12 @@
                     letter-spacing: 1px;
                     text-decoration: underline;
                     text-decoration-color: transparent;
-                    transition: .2s;
+                    transition: .1s;
                 }
 
                 &:hover span {
-                    text-decoration-color: $onSurface;
+                    // text-decoration-color: $primary;
+                    color: $primary;
                 }
             }
         }

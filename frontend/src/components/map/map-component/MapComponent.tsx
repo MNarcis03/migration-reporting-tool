@@ -4,7 +4,7 @@ import { MapContainer, Marker, Popup, SVGOverlay, TileLayer } from 'react-leafle
 import { COLOR_PRIMARY } from '../../../styling/colors';
 import styles from './MapComponent.module.scss';
 import { ActionLog } from '../../../annotations';
-import { getBirdDots } from '../../../services/birds-service';
+import * as birdsService from '../../../services/birds-service';
 
 export interface MapComponentProps {
     childRef: any
@@ -29,21 +29,25 @@ class MapComponent extends React.Component<MapComponentProps, MyState> {
 
     constructor(props: MapComponentProps) {
         super(props);
-        this.generateRandomBirds = this.generateRandomBirds.bind(this);
+        this.updateBirds = this.updateBirds.bind(this);
         props.childRef.current = {
-            generateRandomBirds: this.generateRandomBirds
+            generateRandomBirds: this.updateBirds
         }
 
     }
 
     componentDidMount(): void {
-        this.generateRandomBirds();
+        this.updateBirds();
         
     }
 
+    componentDidUpdate(prevProps: Readonly<MapComponentProps>, prevState: Readonly<MyState>, snapshot?: any): void {
+        console.log('component updated');
+    }
+
     @ActionLog('query bird dots')
-    generateRandomBirds() {
-        getBirdDots(2022, 5).then((data: LatLngTuple[]) => {
+    updateBirds() {
+        birdsService.getBirdDots(2022, 5).then((data: LatLngTuple[]) => {
             this.setState((state) => {
                 state = {
                     birdDots: [...data]
