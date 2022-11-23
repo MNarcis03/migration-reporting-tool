@@ -3,6 +3,7 @@ import { FC, useEffect, useRef } from 'react';
 import MapComponent from './map-component/MapComponent';
 import MapFilter from './map-filter/MapFilter';
 import styles from './MapPage.module.scss';
+import { Dayjs } from "dayjs";
 
 interface MapPageProps { }
 
@@ -18,13 +19,19 @@ const MapPage: FC<MapPageProps> = () => {
     }
 
     useEffect(() => {
-        console.log('page loaded');
-    })
+        // console.log('page loaded');
+    });
+    
+    const updateDate = (date: Dayjs) => {
+        console.log('date updated', date);
+        mapComponentRef.current.generateRandomBirds();
+    }
+    
 
     return (
         <div className={styles.mapContainer}>
             <div className={styles.mapFilters}>
-                <MapFilter data-testid="filter" />
+                <MapFilter data-testid="filter" updateDate={updateDate} />
                 <Button variant="outlined" onClick={() => {mapComponentRef.current.generateRandomBirds()}}>
                     generate random
                 </Button>

@@ -1,14 +1,15 @@
-import React, { FC } from 'react';
+import React from 'react';
 import styles from './MapFilter.module.scss';
 import { DatePicker } from '@mui/x-date-pickers/DatePicker';
 import dayjs, { Dayjs } from 'dayjs';
 import { TextField } from '@mui/material';
 import { LocalizationProvider } from '@mui/x-date-pickers';
 import { AdapterDayjs } from '@mui/x-date-pickers/AdapterDayjs';
-import type { } from '@mui/x-date-pickers/themeAugmentation';
 import { ActionLog } from '../../../annotations';
 
-interface MapFilterProps { }
+interface MapFilterProps {
+    updateDate: Function
+}
 
 interface MapFilterState {
     date: dayjs.Dayjs
@@ -28,11 +29,13 @@ class MapFilter extends React.Component<MapFilterProps, MapFilterState> {
 
     @ActionLog('date selection')
     datePicked(newDate: Dayjs | null) {
+        const theDate = newDate ? newDate : dayjs('2022-04-07');
         this.setState(() => {
             return {
-                date: newDate ? newDate : dayjs('2022-04-07')
+                date: theDate
             };
-        })
+        });
+        this.props.updateDate(theDate);
     }
 
     render() {
