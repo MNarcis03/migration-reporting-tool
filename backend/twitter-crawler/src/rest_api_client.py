@@ -20,7 +20,8 @@ class RestApiClient(metaclass = SingletonMeta):
             port = config[self.__PORT_KEY]
             route = config[self.__POST_ROUTE_KEY]
 
-            self.__url = host + ":" + port + route
+            if None != host and None != port and None != route:
+                self.__url = host + ":" + port + route
 
 
     def POST(self, _tweet):
