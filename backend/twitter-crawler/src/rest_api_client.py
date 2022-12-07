@@ -37,22 +37,3 @@ class RestApiClient(metaclass = SingletonMeta):
         else: print("Invalid PARAMETER!")
 
         return False
-
-
-if __name__ == '__main__':
-    TWEET_ID = "TWID1"
-    CAPTION = "Bird migration here.."
-    IMAGE_URL = "https://url/path/to/image"
-    LOCATION = "Iasi, Romania"
-    TIME_AND_DATE = "2022-12-10 23:59:59"
-    BIRD_SPECIES = "Mute Swan" 
-
-    tweet = TweetModel(TWEET_ID, CAPTION, IMAGE_URL,
-        LOCATION, TIME_AND_DATE, BIRD_SPECIES)
-
-    rest_api_client = RestApiClient()
-    
-    res = rest_api_client.POST(tweet)
-
-    if res: print("Test Succeded!")
-    else: print("Test Failed!")

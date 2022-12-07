@@ -7,10 +7,10 @@ class TweetModel:
     __bird_species = None
 
 
-    def __init__(self, 
-        _tweet_id, _caption, _image_url, 
+    def __init__(self,
+        _tweet_id, _caption, _image_url,
         _location, _time_and_date, _bird_species):
-        self.__tweet_id = _tweet_id 
+        self.__tweet_id = _tweet_id
         self.__caption = _caption
         self.__image_url = _image_url
         self.__location = _location
@@ -42,7 +42,7 @@ class TweetModel:
             if None != self.__time_and_date:
                 data["time_and_date"] = self.__time_and_date
             else: break
-            
+
             if None != self.__bird_species:
                 data["bird_species"] = self.__bird_species
             else: break
