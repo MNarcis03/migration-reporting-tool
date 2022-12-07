@@ -24,11 +24,13 @@ class TestRestApiClient(unittest.TestCase):
         return_status = rest_api_client.POST(tweet)
         self.assertTrue(return_status == True)
 
+
     def test_POST_failed_invalid_parameter1(self):
         rest_api_client = RestApiClient()
 
         return_status = rest_api_client.POST(None)
         self.assertTrue(return_status == False)
+
 
     def test_POST_failed_invalid_parameter2(self):
         tweet = TweetModel(None, None, None,

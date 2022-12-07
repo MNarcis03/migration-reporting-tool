@@ -22,6 +22,7 @@ class TestTweetModel(unittest.TestCase):
 
         self.assertTrue(data != None)
 
+
     def test_get_data_failed(self):
         tweet = TweetModel(None, None, None,
             None, None, None)
