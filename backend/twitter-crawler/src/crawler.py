@@ -2,6 +2,8 @@ import os
 import tweepy
 from dotenv import load_dotenv
 import unittest
+from tweet_model import TweetModel
+from rest_api_client import RestApiClient
 
 
 def authentification():
@@ -35,4 +37,5 @@ class TestMethods(unittest.TestCase):
 
 
 if __name__ == '__main__':
+    tweet = 
     unittest.main()

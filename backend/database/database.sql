@@ -1,12 +1,12 @@
 CREATE TABLE `bird_tweets`
 (
   `id`            INT(11) NOT NULL auto_increment ,
-  `tweet_id`      INT NOT NULL,
+  `tweet_id`      VARCHAR(255) NULL,
   `caption`       VARCHAR(255) NULL ,
   `image_url`     VARCHAR(127) NULL ,
   `location`      VARCHAR(64) NULL ,
   `time_and_date` DATETIME NULL ,
-  `bird_species`  VARCHAR(32) NOT NULL,
+  `bird_species`  VARCHAR(32) NULL,
   `created_at`    DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP ,
   `updated_at`    DATETIME on UPDATE CURRENT_TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ,
   PRIMARY KEY (`id`),
