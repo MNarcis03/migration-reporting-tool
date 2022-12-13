@@ -12,15 +12,15 @@ import { COLOR_BACKGROUND, COLOR_ON_SURFACE, COLOR_ON_SURFACE_VARIANT, COLOR_PRI
 // const StatisticsPage = React.lazy(() => import('./components/statistics/StatisticsPage'));
 
 const theme = createTheme({
-    components: {
-        MuiDatePicker: {
-            styleOverrides: {
-                root: {
-                    backgroundColor: 'red',
-                },
-            },
-        },
-    },
+    // components: {
+    //     MuiDatePicker: {
+    //         styleOverrides: {
+    //             root: {
+    //                 backgroundColor: 'red',
+    //             },
+    //         },
+    //     },
+    // },
     palette: {
         primary: {
             light: '#ff0000',

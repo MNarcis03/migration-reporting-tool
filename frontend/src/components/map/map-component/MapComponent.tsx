@@ -1,17 +1,20 @@
-import { LatLngBoundsExpression, LatLngTuple, LeafletEvent, Map } from 'leaflet';
+import { LatLngBoundsExpression, LatLngTuple, LeafletEvent, LeafletMouseEvent, Map } from 'leaflet';
 import React from 'react';
 import { MapContainer, Marker, Popup, SVGOverlay, TileLayer } from 'react-leaflet';
-import { COLOR_PRIMARY } from '../../../styling/colors';
+import { COLOR_PRIMARY, COLOR_SURFACE } from '../../../styling/colors';
 import styles from './MapComponent.module.scss';
 import { ActionLog } from '../../../annotations';
 import * as birdsService from '../../../services/birds-service';
+import { checkPointInsideCircle, convertLatLngToXY } from "./helper";
+import { BirdDot } from "../../../models/bird-dot.model";
 
 export interface MapComponentProps {
     childRef: any
 }
 
 type MyState = {
-    birdDots: LatLngTuple[],
+    birdDots: BirdDot[],
+    zoomLevel: number
 };
 
 class MapComponent extends React.Component<MapComponentProps, MyState> {
@@ -21,17 +24,17 @@ class MapComponent extends React.Component<MapComponentProps, MyState> {
     private maxLat = 90;
     private maxLng = 180;
     private maxZoom = 5;
-    private minZoom = 2;
+    private minZoom = 1;
     private defaultZoom = 3;
-    private zoomListenerHasBeenSet = false;
-    private currentZoom = this.defaultZoom;
+    private listenersHaveBeenSet = false;
 
-    private position: LatLngTuple = [50, 0];
+    private position: LatLngTuple = [45, 0];
     private maxBounds: LatLngBoundsExpression = [[-this.maxLat, -this.maxLng], [this.maxLat, this.maxLng]];
     private bounds: LatLngBoundsExpression = this.maxBounds;
 
     state: MyState = {
         birdDots: [],
+        zoomLevel: this.defaultZoom
     };
 
     constructor(props: MapComponentProps) {
@@ -49,21 +52,53 @@ class MapComponent extends React.Component<MapComponentProps, MyState> {
     private setZoomListener() {
         console.log(this.mapRef.current);
         this.mapRef.current?.addEventListener('zoom', (event: LeafletEvent) => {
-            const zoomLevel: number = event.target._zoom;
-            let diff: number;
-            if(zoomLevel > this.currentZoom) diff = (zoomLevel - this.currentZoom) * 2;
-            else diff = 1 / ((this.currentZoom - zoomLevel) * 2)
             this.setState((state) => {
                 state = {
-                    birdDots: this.state.birdDots.map((value: LatLngTuple) => {
-                        return [value[0] * diff, value[1] * diff]
-                    })
+                    ...state,
+                    zoomLevel: event.target._zoom
                 }
                 return state;
             });
-            this.currentZoom = zoomLevel;
         });
-        this.zoomListenerHasBeenSet = true;
+        this.listenersHaveBeenSet = true;
+    }
+    
+    private setHoverListener() {
+        console.log(this.mapRef.current);
+        this.mapRef.current?.addEventListener('mousemove', (event: LeafletMouseEvent) => {
+            const mouseX = event.latlng.lng;
+            const mouseY = event.latlng.lat;
+            console.log(Math.round(mouseX), Math.round(mouseY));
+            const indexesList: number[] = [];
+            for(let i = 0; i < this.state.birdDots.length; i++) {
+                const x = this.state.birdDots[i].coords[1];
+                const y = this.state.birdDots[i].coords[0];
+                if(checkPointInsideCircle(mouseX, mouseY, 20, x, y)) indexesList.push(i);
+            }
+            
+            this.setState((state: MyState) => {
+                return {
+                    birdDots: state.birdDots.map((dot: BirdDot, i) => {
+                        if(indexesList.includes(i)) {
+                            return {
+                                coords: dot.coords,
+                                color: COLOR_PRIMARY,
+                                nr: dot.nr
+                            };
+                        } else {
+                            return {
+                                coords: dot.coords,
+                                color: COLOR_SURFACE,
+                                nr: dot.nr
+                            };
+                        }
+                    }),
+                    zoomLevel: state.zoomLevel
+                }
+            });
+            
+        });
+        this.listenersHaveBeenSet = true;
     }
 
     componentDidMount(): void {
@@ -72,17 +107,24 @@ class MapComponent extends React.Component<MapComponentProps, MyState> {
     }
 
     componentDidUpdate(prevProps: Readonly<MapComponentProps>, prevState: Readonly<MyState>, snapshot?: any): void {
-        if(!this.zoomListenerHasBeenSet && this.mapRef.current) {
+        if(!this.listenersHaveBeenSet && this.mapRef.current) {
             this.setZoomListener();
+            this.setHoverListener();
         }
     }
 
     @ActionLog('query bird dots')
     updateBirds() {
-        birdsService.getBirdDots(2022, 5).then((data: LatLngTuple[]) => {
+        birdsService.getBirdsInfo(2022, 5).then((data: BirdDot[]) => {
+        //     birdsService.getRandomBirdDots().then((data: BirdDot[]) => {
             this.setState((state) => {
                 state = {
-                    birdDots: [...data]
+                    birdDots: data.map((dot: BirdDot) => ({
+                        coords: dot.coords,
+                        color: COLOR_SURFACE,
+                        nr: dot.nr
+                    })),
+                    zoomLevel: this.defaultZoom,
                 }
                 return state;
             });
@@ -112,10 +154,29 @@ class MapComponent extends React.Component<MapComponentProps, MyState> {
                 </Marker>
                 <SVGOverlay attributes={{ stroke: 'red' }} bounds={this.bounds}>
                     {
-                        this.state.birdDots.map((el: LatLngTuple, i: number) => (
-                            <circle r="3" cx={el[1]} cy={el[0]} fill={COLOR_PRIMARY} key={i} />
-                        ))
+                        this.state.birdDots.map((birdDot: BirdDot, i: number) => {
+                            const { x, y } = convertLatLngToXY(birdDot.coords, this.state.zoomLevel)
+                            // console.log('rendering');
+                            return (
+                                // <circle r="3" cx={x} cy={y} fill={COLOR_PRIMARY} key={i}/>
+                                <circle r={4} cx={x} cy={y} fill={birdDot.color} strokeWidth={0} key={i}/>
+                            )
+                        })
                     }
+                    {/*{*/}
+                    {/*    (() => {*/}
+                    {/*        const { x, y } = convertLatLngToXY([45, 0], this.state.zoomLevel)*/}
+                    
+                    {/*        return (*/}
+                    {/*            <g>*/}
+                    {/*                <line x1={-200} x2={1200} y1={1024} y2={1024} stroke={COLOR_PRIMARY} strokeWidth={5} />*/}
+                    {/*                <circle cx={x} cy={y} fill={'#009900'} strokeWidth={0} r={7}/>*/}
+                    {/*                <circle cx={x} cy={1024} fill={'#009900'} strokeWidth={0} r={7}/>*/}
+                    {/*                /!*<circle cx={x} cy={y} fill={'#009900'} strokeWidth={0} r={7}/>*!/*/}
+                    {/*            </g>*/}
+                    {/*        )*/}
+                    {/*    })()*/}
+                    {/*}*/}
                 </SVGOverlay>
             </MapContainer>
         );
