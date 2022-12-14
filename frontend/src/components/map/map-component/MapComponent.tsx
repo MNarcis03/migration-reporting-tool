@@ -1,12 +1,13 @@
 import { LatLngBoundsExpression, LatLngTuple, LeafletEvent, LeafletMouseEvent, Map } from 'leaflet';
 import React from 'react';
-import { MapContainer, Marker, Popup, SVGOverlay, TileLayer } from 'react-leaflet';
+import { Circle, LayerGroup, LayersControl, MapContainer, Marker, Popup, SVGOverlay, TileLayer } from 'react-leaflet';
 import { COLOR_PRIMARY, COLOR_SURFACE } from '../../../styling/colors';
 import styles from './MapComponent.module.scss';
 import { ActionLog } from '../../../annotations';
 import * as birdsService from '../../../services/birds-service';
 import { checkPointInsideCircle, convertLatLngToXY } from "./helper";
 import { BirdDot } from "../../../models/bird-dot.model";
+import { DEFAULT_ZOOM, MAX_LAT, MAX_LNG, MAX_ZOOM, MIN_ZOOM } from "./constants";
 
 export interface MapComponentProps {
     childRef: any
@@ -21,20 +22,16 @@ class MapComponent extends React.Component<MapComponentProps, MyState> {
 
     private readonly mapRef: React.RefObject<Map>;
 
-    private maxLat = 90;
-    private maxLng = 180;
-    private maxZoom = 5;
-    private minZoom = 1;
-    private defaultZoom = 3;
     private listenersHaveBeenSet = false;
+    private center: LatLngTuple = [51.505, -0.09]
 
     private position: LatLngTuple = [45, 0];
-    private maxBounds: LatLngBoundsExpression = [[-this.maxLat, -this.maxLng], [this.maxLat, this.maxLng]];
+    private maxBounds: LatLngBoundsExpression = [[-MAX_LAT, -MAX_LNG], [MAX_LAT, MAX_LNG]];
     private bounds: LatLngBoundsExpression = this.maxBounds;
 
     state: MyState = {
         birdDots: [],
-        zoomLevel: this.defaultZoom
+        zoomLevel: DEFAULT_ZOOM
     };
 
     constructor(props: MapComponentProps) {
@@ -50,7 +47,6 @@ class MapComponent extends React.Component<MapComponentProps, MyState> {
     }
     
     private setZoomListener() {
-        console.log(this.mapRef.current);
         this.mapRef.current?.addEventListener('zoom', (event: LeafletEvent) => {
             this.setState((state) => {
                 state = {
@@ -64,35 +60,24 @@ class MapComponent extends React.Component<MapComponentProps, MyState> {
     }
     
     private setHoverListener() {
-        console.log(this.mapRef.current);
         this.mapRef.current?.addEventListener('mousemove', (event: LeafletMouseEvent) => {
             const mouseX = event.latlng.lng;
             const mouseY = event.latlng.lat;
-            console.log(Math.round(mouseX), Math.round(mouseY));
             const indexesList: number[] = [];
             for(let i = 0; i < this.state.birdDots.length; i++) {
                 const x = this.state.birdDots[i].coords[1];
                 const y = this.state.birdDots[i].coords[0];
-                if(checkPointInsideCircle(mouseX, mouseY, 20, x, y)) indexesList.push(i);
+                if(checkPointInsideCircle(event.latlng.lng, event.latlng.lat, 4, x, y)) {
+                    indexesList.push(i)
+                }
             }
             
             this.setState((state: MyState) => {
                 return {
-                    birdDots: state.birdDots.map((dot: BirdDot, i) => {
-                        if(indexesList.includes(i)) {
-                            return {
-                                coords: dot.coords,
-                                color: COLOR_PRIMARY,
-                                nr: dot.nr
-                            };
-                        } else {
-                            return {
-                                coords: dot.coords,
-                                color: COLOR_SURFACE,
-                                nr: dot.nr
-                            };
-                        }
-                    }),
+                    birdDots: state.birdDots.map((dot: BirdDot, i) => ({
+                        ...dot,
+                        color: indexesList.includes(i) ? COLOR_PRIMARY : COLOR_SURFACE
+                    })),
                     zoomLevel: state.zoomLevel
                 }
             });
@@ -114,9 +99,9 @@ class MapComponent extends React.Component<MapComponentProps, MyState> {
     }
 
     @ActionLog('query bird dots')
-    updateBirds() {
+    async updateBirds() {
         birdsService.getBirdsInfo(2022, 5).then((data: BirdDot[]) => {
-        //     birdsService.getRandomBirdDots().then((data: BirdDot[]) => {
+            console.log('query response:', data);
             this.setState((state) => {
                 state = {
                     birdDots: data.map((dot: BirdDot) => ({
@@ -124,20 +109,20 @@ class MapComponent extends React.Component<MapComponentProps, MyState> {
                         color: COLOR_SURFACE,
                         nr: dot.nr
                     })),
-                    zoomLevel: this.defaultZoom,
+                    zoomLevel: DEFAULT_ZOOM,
                 }
                 return state;
             });
-        })
+        });
     }
 
     render() {
         return (
             <MapContainer 
                 center={this.position}
-                zoom={this.defaultZoom}
-                maxZoom={this.maxZoom}
-                minZoom={this.minZoom}
+                zoom={DEFAULT_ZOOM}
+                maxZoom={MAX_ZOOM}
+                minZoom={MIN_ZOOM}
                 scrollWheelZoom={true}
                 className={styles.leafletMap}
                 maxBounds={this.maxBounds}
@@ -147,37 +132,63 @@ class MapComponent extends React.Component<MapComponentProps, MyState> {
                     attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
                     url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
                 />
+                
                 <Marker position={this.position}>
                     <Popup>
                         A pretty CSS3 popup. <br /> Easily customizable.
                     </Popup>
                 </Marker>
-                <SVGOverlay attributes={{ stroke: 'red' }} bounds={this.bounds}>
-                    {
-                        this.state.birdDots.map((birdDot: BirdDot, i: number) => {
-                            const { x, y } = convertLatLngToXY(birdDot.coords, this.state.zoomLevel)
-                            // console.log('rendering');
-                            return (
-                                // <circle r="3" cx={x} cy={y} fill={COLOR_PRIMARY} key={i}/>
-                                <circle r={4} cx={x} cy={y} fill={birdDot.color} strokeWidth={0} key={i}/>
-                            )
-                        })
-                    }
-                    {/*{*/}
-                    {/*    (() => {*/}
-                    {/*        const { x, y } = convertLatLngToXY([45, 0], this.state.zoomLevel)*/}
-                    
-                    {/*        return (*/}
-                    {/*            <g>*/}
-                    {/*                <line x1={-200} x2={1200} y1={1024} y2={1024} stroke={COLOR_PRIMARY} strokeWidth={5} />*/}
-                    {/*                <circle cx={x} cy={y} fill={'#009900'} strokeWidth={0} r={7}/>*/}
-                    {/*                <circle cx={x} cy={1024} fill={'#009900'} strokeWidth={0} r={7}/>*/}
-                    {/*                /!*<circle cx={x} cy={y} fill={'#009900'} strokeWidth={0} r={7}/>*!/*/}
-                    {/*            </g>*/}
-                    {/*        )*/}
-                    {/*    })()*/}
-                    {/*}*/}
-                </SVGOverlay>
+                <LayersControl position="topright">
+                    <LayersControl.Overlay checked name="Bird dots">
+                        <LayerGroup>
+                                {
+                                    this.state.birdDots.map((birdDot: BirdDot, i: number) => {
+                                        return (
+                                            <Circle
+                                                center={birdDot.coords}
+                                                radius={40000}
+                                                fill={true}
+                                                fillColor={birdDot.color}
+                                                fillOpacity={1}
+                                                stroke={false}
+                                            />
+                                        )
+                                    })
+                                }
+                            <Circle
+                                center={this.center}
+                                pathOptions={{ fillColor: 'blue' }}
+                                radius={200}
+                            />
+                            <Circle
+                                center={[400, 50]}
+                                pathOptions={{ fillColor: 'red' }}
+                                radius={100}
+                                fill={true}
+                                fillColor={ '#ff0000' }
+                                stroke={false}
+                            />
+                            <LayerGroup>
+                                <Circle
+                                    center={[51.51, -0.08]}
+                                    pathOptions={{ color: 'green', fillColor: 'green' }}
+                                    radius={100}
+                                />
+                            </LayerGroup>
+                        </LayerGroup>
+                    </LayersControl.Overlay>
+                </LayersControl>
+                {/*<SVGOverlay attributes={{ stroke: 'red' }} bounds={this.bounds}>*/}
+                {/*    {*/}
+                {/*        this.state.birdDots.map((birdDot: BirdDot, i: number) => {*/}
+                {/*            const { x, y } = convertLatLngToXY(birdDot.coords, this.state.zoomLevel)*/}
+                {/*            return (*/}
+                {/*                <circle r={4} cx={x} cy={y} fill={birdDot.color} strokeWidth={0} key={i}/>*/}
+                {/*            )*/}
+                {/*        })*/}
+                {/*    }*/}
+                {/*    <circle r={4} cx={400} cy={50} fill={'#000000'} strokeWidth={0} />*/}
+                {/*</SVGOverlay>*/}
             </MapContainer>
         );
     }

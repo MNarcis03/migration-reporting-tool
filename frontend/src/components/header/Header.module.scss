@@ -35,8 +35,10 @@
         height: 100%;
         
         
-        a {
+        button {
             height: inherit;
+            background: transparent;
+            border: none;
             color: $onSurface;
             text-decoration: none;
             cursor: pointer;
@@ -61,6 +63,11 @@
                     color: $primary;
                 }
             }
+        }
+        
+        button.active {
+            border-bottom: 2px solid $primary;
+            color: $primary;
         }
     }
 
