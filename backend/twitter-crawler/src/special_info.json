@@ -1,0 +1,1506 @@
+[
+    {
+        "location": "Silicon Valley",
+        "latitude": "37.4429964",
+        "longitude": "-122.1545229",
+        "total_number": 1,
+        "#bird": 1
+    },
+    {
+        "location": "World",
+        "latitude": "37.35089885",
+        "longitude": "-121.82751555",
+        "total_number": 4,
+        "#bird": 2,
+        "#doves": 2
+    },
+    {
+        "location": "Sierra Vista, AZ",
+        "latitude": "31.5545973",
+        "longitude": "-110.2997756",
+        "total_number": 2,
+        "#bird": 2
+    },
+    {
+        "location": "Gatchina",
+        "latitude": "59.5706273",
+        "longitude": "30.1305083",
+        "total_number": 1,
+        "#bird": 1
+    },
+    {
+        "location": "no DMs",
+        "latitude": "47.9833018",
+        "longitude": "16.2853286",
+        "total_number": 5,
+        "#bird": 5
+    },
+    {
+        "location": "Chatham, MA",
+        "latitude": "35.7151316",
+        "longitude": "-79.2533035",
+        "total_number": 1,
+        "#bird": 1
+    },
+    {
+        "location": "Netherlands",
+        "latitude": "52.2434979",
+        "longitude": "5.6343227",
+        "total_number": 3,
+        "#bird": 1,
+        "#flycatchers": 2
+    },
+    {
+        "location": "New York ",
+        "latitude": "40.7127281",
+        "longitude": "-74.0060152",
+        "total_number": 25,
+        "#bird": 1,
+        "#finches": 3,
+        "#warblers": 9,
+        "#buntings": 6,
+        "#grebes": 2,
+        "#flycatchers": 4
+    },
+    {
+        "location": "ETH",
+        "latitude": "50.3260433",
+        "longitude": "3.6671281",
+        "total_number": 3,
+        "#bird": 3
+    },
+    {
+        "location": "Turkey and UK",
+        "latitude": "54.8241484",
+        "longitude": "-4.4375328",
+        "total_number": 1,
+        "#bird": 1
+    },
+    {
+        "location": "Toronto, Ontario, Canada",
+        "latitude": "43.6534817",
+        "longitude": "-79.3839347",
+        "total_number": 2,
+        "#ducks": 1,
+        "#bird": 1
+    },
+    {
+        "location": "Amsterdam, The Netherlands",
+        "latitude": "52.3727598",
+        "longitude": "4.8936041",
+        "total_number": 1,
+        "#ducks": 1
+    },
+    {
+        "location": "Jamaica",
+        "latitude": "18.1850507",
+        "longitude": "-77.3947693",
+        "total_number": 1,
+        "#ducks": 1
+    },
+    {
+        "location": "Chicago, IL",
+        "latitude": "41.8755616",
+        "longitude": "-87.6244212",
+        "total_number": 4,
+        "#ducks": 1,
+        "#storks": 3
+    },
+    {
+        "location": "Bentonville, AR",
+        "latitude": "36.3728538",
+        "longitude": "-94.2088172",
+        "total_number": 1,
+        "#ducks": 1
+    },
+    {
+        "location": "UK",
+        "latitude": "54.7023545",
+        "longitude": "-3.2765753",
+        "total_number": 9,
+        "#ducks": 1,
+        "#grebes": 2,
+        "#thrushes": 4,
+        "#buntings": 2
+    },
+    {
+        "location": "Pond",
+        "latitude": "35.7177326",
+        "longitude": "-119.3287234",
+        "total_number": 20,
+        "#ducks": 20
+    },
+    {
+        "location": "Trieste, Friuli-Venezia Giulia",
+        "latitude": "45.6496485",
+        "longitude": "13.7772781",
+        "total_number": 1,
+        "#ducks": 1
+    },
+    {
+        "location": "Barcelona",
+        "latitude": "41.3828939",
+        "longitude": "2.1774322",
+        "total_number": 1,
+        "#ducks": 1
+    },
+    {
+        "location": "Mumbai",
+        "latitude": "19.0785451",
+        "longitude": "72.878176",
+        "total_number": 4,
+        "#ducks": 1,
+        "#flamingos": 2,
+        "#bird": 1
+    },
+    {
+        "location": "Kamuela, Hawaii",
+        "latitude": "20.020452",
+        "longitude": "-155.66391",
+        "total_number": 1,
+        "#ducks": 1
+    },
+    {
+        "location": "Roseville, CA",
+        "latitude": "38.7521235",
+        "longitude": "-121.2880059",
+        "total_number": 5,
+        "#ducks": 3,
+        "#flamingos": 2
+    },
+    {
+        "location": "Winnipeg",
+        "latitude": "49.8955367",
+        "longitude": "-97.1384584",
+        "total_number": 2,
+        "#ducks": 2
+    },
+    {
+        "location": "Portland, OR",
+        "latitude": "45.5202471",
+        "longitude": "-122.674194",
+        "total_number": 3,
+        "#ducks": 3
+    },
+    {
+        "location": "Milwaukee-Chicago",
+        "latitude": "41.8961978",
+        "longitude": "-87.6553579",
+        "total_number": 7,
+        "#ducks": 6,
+        "#orioles": 1
+    },
+    {
+        "location": "mi casa",
+        "latitude": "1.3841862",
+        "longitude": "103.74803247848459",
+        "total_number": 1,
+        "#ducks": 1
+    },
+    {
+        "location": "Illinois, USA",
+        "latitude": "40.0796606",
+        "longitude": "-89.4337288",
+        "total_number": 1,
+        "#ducks": 1
+    },
+    {
+        "location": "Seattle, WA",
+        "latitude": "47.6038321",
+        "longitude": "-122.330062",
+        "total_number": 2,
+        "#ducks": 1,
+        "#bird": 1
+    },
+    {
+        "location": "Tampa, FL",
+        "latitude": "27.9477595",
+        "longitude": "-82.458444",
+        "total_number": 2,
+        "#ducks": 1,
+        "#bird": 1
+    },
+    {
+        "location": "USA",
+        "latitude": "39.7837304",
+        "longitude": "-100.445882",
+        "total_number": 26,
+        "#ducks": 1,
+        "#flamingos": 1,
+        "#finches": 3,
+        "#waterbirds": 3,
+        "#warblers": 3,
+        "#thrushes": 12,
+        "#pelicans": 2,
+        "#bird": 1
+    },
+    {
+        "location": "Sweden",
+        "latitude": "59.6749712",
+        "longitude": "14.5208584",
+        "total_number": 4,
+        "#flamingos": 2,
+        "#buntings": 2
+    },
+    {
+        "location": "Santa Barbara, CA",
+        "latitude": "34.4221319",
+        "longitude": "-119.702667",
+        "total_number": 2,
+        "#flamingos": 2
+    },
+    {
+        "location": "Bahrain",
+        "latitude": "26.1551249",
+        "longitude": "50.5344606",
+        "total_number": 1,
+        "#flamingos": 1
+    },
+    {
+        "location": "Oregon, USA",
+        "latitude": "43.9792797",
+        "longitude": "-120.737257",
+        "total_number": 8,
+        "#flamingos": 1,
+        "#ducks": 5,
+        "#pelicans": 2
+    },
+    {
+        "location": "Florida",
+        "latitude": "27.7567667",
+        "longitude": "-81.4639835",
+        "total_number": 15,
+        "#flamingos": 7,
+        "#pelicans": 1,
+        "#warblers": 3,
+        "#thrushes": 4
+    },
+    {
+        "location": "Kansas, USA",
+        "latitude": "38.27312",
+        "longitude": "-98.5821872",
+        "total_number": 7,
+        "#flamingos": 7
+    },
+    {
+        "location": "world world",
+        "latitude": "33.815308900000005",
+        "longitude": "-117.91739186138143",
+        "total_number": 1,
+        "#flamingos": 1
+    },
+    {
+        "location": "Chile",
+        "latitude": "-31.7613365",
+        "longitude": "-71.3187697",
+        "total_number": 3,
+        "#grebes": 3
+    },
+    {
+        "location": "Budapest, Hungary",
+        "latitude": "47.4979937",
+        "longitude": "19.0403594",
+        "total_number": 28,
+        "#grebes": 5,
+        "#flycatchers": 5,
+        "#thrushes": 12,
+        "#buntings": 6
+    },
+    {
+        "location": "Lawrence Township, New Jersey",
+        "latitude": "40.2774754",
+        "longitude": "-74.7296047",
+        "total_number": 3,
+        "#grebes": 3
+    },
+    {
+        "location": "Fort Walton Beach, FL",
+        "latitude": "30.4057552",
+        "longitude": "-86.618842",
+        "total_number": 5,
+        "#doves": 5
+    },
+    {
+        "location": "Orange City, FL",
+        "latitude": "28.9488761",
+        "longitude": "-81.2986741",
+        "total_number": 6,
+        "#doves": 6
+    },
+    {
+        "location": "London",
+        "latitude": "51.5073219",
+        "longitude": "-0.1276474",
+        "total_number": 18,
+        "#doves": 3,
+        "#storks": 6,
+        "#buntings": 5,
+        "#thrushes": 4
+    },
+    {
+        "location": "Manchester, England",
+        "latitude": "53.4794892",
+        "longitude": "-2.2451148",
+        "total_number": 5,
+        "#doves": 2,
+        "#finches": 3
+    },
+    {
+        "location": "Gaithersburg, MD",
+        "latitude": "39.1399187",
+        "longitude": "-77.1929215",
+        "total_number": 1,
+        "#doves": 1
+    },
+    {
+        "location": "Venice, FL",
+        "latitude": "27.0999188",
+        "longitude": "-82.4543597",
+        "total_number": 1,
+        "#doves": 1
+    },
+    {
+        "location": "Beavercreek, Ohio",
+        "latitude": "39.7092262",
+        "longitude": "-84.0632685",
+        "total_number": 3,
+        "#doves": 1,
+        "#flycatchers": 2
+    },
+    {
+        "location": "Hot Springs, Ar",
+        "latitude": "34.5038393",
+        "longitude": "-93.0552437",
+        "total_number": 6,
+        "#cuckoos": 6
+    },
+    {
+        "location": "Risca",
+        "latitude": "51.6119541",
+        "longitude": "-3.0964817",
+        "total_number": 69,
+        "#cuckoos": 69
+    },
+    {
+        "location": "Australia",
+        "latitude": "-24.7761086",
+        "longitude": "134.755",
+        "total_number": 6,
+        "#cuckoos": 3,
+        "#waterbirds": 3
+    },
+    {
+        "location": "New Orleans, LA",
+        "latitude": "29.9759983",
+        "longitude": "-90.0782127",
+        "total_number": 13,
+        "#cuckoos": 9,
+        "#pelicans": 4
+    },
+    {
+        "location": "Wales, United Kingdom",
+        "latitude": "52.2928116",
+        "longitude": "-3.73893",
+        "total_number": 3,
+        "#cuckoos": 3
+    },
+    {
+        "location": "Delhi",
+        "latitude": "28.6517178",
+        "longitude": "77.2219388",
+        "total_number": 3,
+        "#flycatchers": 3
+    },
+    {
+        "location": "Charlottesville",
+        "latitude": "38.029306",
+        "longitude": "-78.4766781",
+        "total_number": 3,
+        "#flycatchers": 3
+    },
+    {
+        "location": "Earth",
+        "latitude": "34.2331373",
+        "longitude": "-102.4107493",
+        "total_number": 8,
+        "#thrushes": 6,
+        "#storks": 2
+    },
+    {
+        "location": "Sri Lanka ",
+        "latitude": "7.5554942",
+        "longitude": "80.7137847",
+        "total_number": 6,
+        "#thrushes": 6
+    },
+    {
+        "location": "Baton Rouge, LA",
+        "latitude": "30.4507936",
+        "longitude": "-91.1391153",
+        "total_number": 5,
+        "#pelicans": 5
+    },
+    {
+        "location": "Lafayette, LA",
+        "latitude": "30.2043259",
+        "longitude": "-92.0298813",
+        "total_number": 1,
+        "#pelicans": 1
+    },
+    {
+        "location": "Montenegro",
+        "latitude": "42.9868853",
+        "longitude": "19.5180992",
+        "total_number": 1,
+        "#pelicans": 1
+    },
+    {
+        "location": "Fort Lauderdale, FL",
+        "latitude": "26.1223084",
+        "longitude": "-80.1433786",
+        "total_number": 6,
+        "#pelicans": 6
+    },
+    {
+        "location": "Lisbon, Portugal",
+        "latitude": "38.7077507",
+        "longitude": "-9.1365919",
+        "total_number": 7,
+        "#pelicans": 1,
+        "#storks": 3,
+        "#waterbirds": 3
+    },
+    {
+        "location": "Louisiana, USA",
+        "latitude": "30.8703881",
+        "longitude": "-92.007126",
+        "total_number": 3,
+        "#pelicans": 3
+    },
+    {
+        "location": "Denham Springs, LA",
+        "latitude": "30.4868564",
+        "longitude": "-90.9562125",
+        "total_number": 1,
+        "#pelicans": 1
+    },
+    {
+        "location": "Marietta, GA",
+        "latitude": "33.9528472",
+        "longitude": "-84.5496148",
+        "total_number": 1,
+        "#pelicans": 1
+    },
+    {
+        "location": "Portugal",
+        "latitude": "39.6621648",
+        "longitude": "-8.1353519",
+        "total_number": 1,
+        "#pelicans": 1
+    },
+    {
+        "location": "Poland",
+        "latitude": "52.215933",
+        "longitude": "19.134422",
+        "total_number": 9,
+        "#pelicans": 1,
+        "#storks": 6,
+        "#buntings": 2
+    },
+    {
+        "location": "western New York",
+        "latitude": "8.3886801",
+        "longitude": "-13.1226076",
+        "total_number": 5,
+        "#storks": 3,
+        "#grebes": 2
+    },
+    {
+        "location": "Europe",
+        "latitude": "51.0",
+        "longitude": "10.0",
+        "total_number": 3,
+        "#storks": 3
+    },
+    {
+        "location": "California, USA",
+        "latitude": "36.7014631",
+        "longitude": "-118.755997",
+        "total_number": 9,
+        "#storks": 9
+    },
+    {
+        "location": "Washington, DC",
+        "latitude": "38.8950368",
+        "longitude": "-77.0365427",
+        "total_number": 3,
+        "#storks": 3
+    },
+    {
+        "location": "Shoreline, WA",
+        "latitude": "47.7564667",
+        "longitude": "-122.3437497",
+        "total_number": 3,
+        "#storks": 3
+    },
+    {
+        "location": "New Delhi, India",
+        "latitude": "28.6138954",
+        "longitude": "77.2090057",
+        "total_number": 4,
+        "#storks": 3,
+        "#bird": 1
+    },
+    {
+        "location": "Covehithe/Benacre, Suffolk, UK",
+        "latitude": "52.36945775",
+        "longitude": "1.704279081525593",
+        "total_number": 3,
+        "#storks": 3
+    },
+    {
+        "location": "Francistown , Botswana",
+        "latitude": "-21.16636",
+        "longitude": "27.502515",
+        "total_number": 3,
+        "#storks": 3
+    },
+    {
+        "location": "Italy",
+        "latitude": "42.6384261",
+        "longitude": "12.674297",
+        "total_number": 3,
+        "#storks": 3
+    },
+    {
+        "location": "San Francisco Bay Area",
+        "latitude": "37.7884969",
+        "longitude": "-122.3558473",
+        "total_number": 4,
+        "#storks": 3,
+        "#finches": 1
+    },
+    {
+        "location": "Nairobi, Kenya",
+        "latitude": "-1.2832533",
+        "longitude": "36.8172449",
+        "total_number": 3,
+        "#storks": 3
+    },
+    {
+        "location": "Da Nang - Viet Nam ",
+        "latitude": "16.068",
+        "longitude": "108.212",
+        "total_number": 3,
+        "#storks": 3
+    },
+    {
+        "location": "Australia | India",
+        "latitude": "-30.292225600000002",
+        "longitude": "153.12458803097948",
+        "total_number": 1,
+        "#swifts": 1
+    },
+    {
+        "location": "Massachusetts",
+        "latitude": "42.3788774",
+        "longitude": "-72.032366",
+        "total_number": 6,
+        "#finches": 3,
+        "#warblers": 3
+    },
+    {
+        "location": "Brisbane, Queensland",
+        "latitude": "-27.4689682",
+        "longitude": "153.0234991",
+        "total_number": 6,
+        "#finches": 3,
+        "#waterbirds": 3
+    },
+    {
+        "location": "Cardiff",
+        "latitude": "51.4816546",
+        "longitude": "-3.1791934",
+        "total_number": 3,
+        "#finches": 3
+    },
+    {
+        "location": "Virginia",
+        "latitude": "37.1232245",
+        "longitude": "-78.4927721",
+        "total_number": 3,
+        "#finches": 3
+    },
+    {
+        "location": "Chennai, India",
+        "latitude": "13.0836939",
+        "longitude": "80.270186",
+        "total_number": 3,
+        "#finches": 3
+    },
+    {
+        "location": "Ewelme, England",
+        "latitude": "51.6194821",
+        "longitude": "-1.0711793",
+        "total_number": 6,
+        "#finches": 3,
+        "#warblers": 3
+    },
+    {
+        "location": "South Holderness",
+        "latitude": "43.7409823",
+        "longitude": "-71.5335871",
+        "total_number": 10,
+        "#finches": 3,
+        "#waterbirds": 3,
+        "#buntings": 4
+    },
+    {
+        "location": "brooklyn, ny",
+        "latitude": "40.6526006",
+        "longitude": "-73.9497211",
+        "total_number": 5,
+        "#finches": 3,
+        "#flycatchers": 2
+    },
+    {
+        "location": "Clarence-Rockland, Ontario",
+        "latitude": "45.5247978",
+        "longitude": "-75.2607533",
+        "total_number": 3,
+        "#finches": 3
+    },
+    {
+        "location": "Hawaii, USA",
+        "latitude": "19.593801499999998",
+        "longitude": "-155.42837009716908",
+        "total_number": 3,
+        "#finches": 3
+    },
+    {
+        "location": "Livermore, CA",
+        "latitude": "37.6820583",
+        "longitude": "-121.768053",
+        "total_number": 3,
+        "#waterbirds": 3
+    },
+    {
+        "location": "Saint Augustine, FL",
+        "latitude": "29.8946952",
+        "longitude": "-81.3145395",
+        "total_number": 3,
+        "#waterbirds": 3
+    },
+    {
+        "location": "Honolulu, Hawaii",
+        "latitude": "21.304547",
+        "longitude": "-157.855676",
+        "total_number": 3,
+        "#waterbirds": 3
+    },
+    {
+        "location": "East Coast USA",
+        "latitude": "39.94236755",
+        "longitude": "-75.08758735",
+        "total_number": 3,
+        "#waterbirds": 3
+    },
+    {
+        "location": "Hel / pomorskie",
+        "latitude": "54.6066432",
+        "longitude": "18.8027076",
+        "total_number": 3,
+        "#waterbirds": 3
+    },
+    {
+        "location": "Planet Earth",
+        "latitude": "14.3601126",
+        "longitude": "100.5772104",
+        "total_number": 3,
+        "#waterbirds": 3
+    },
+    {
+        "location": "South Devon, UK",
+        "latitude": "50.3720497",
+        "longitude": "-3.8162519907888086",
+        "total_number": 3,
+        "#waterbirds": 3
+    },
+    {
+        "location": "Copenhagen",
+        "latitude": "55.6867243",
+        "longitude": "12.5700724",
+        "total_number": 6,
+        "#waterbirds": 6
+    },
+    {
+        "location": "Wisconsin, USA",
+        "latitude": "44.4308975",
+        "longitude": "-89.6884637",
+        "total_number": 9,
+        "#waterbirds": 9
+    },
+    {
+        "location": "England, United Kingdom",
+        "latitude": "52.5310214",
+        "longitude": "-1.2649062",
+        "total_number": 5,
+        "#waterbirds": 3,
+        "#grebes": 2
+    },
+    {
+        "location": "bangalore..mandya",
+        "latitude": "12.5288845",
+        "longitude": "76.8967003",
+        "total_number": 3,
+        "#waterbirds": 3
+    },
+    {
+        "location": "Odisha, India",
+        "latitude": "20.5431241",
+        "longitude": "84.6897321",
+        "total_number": 6,
+        "#waterbirds": 6
+    },
+    {
+        "location": " Logan County, Ky",
+        "latitude": "36.823707",
+        "longitude": "-86.8833607",
+        "total_number": 16,
+        "#warblers": 14,
+        "#flycatchers": 2
+    },
+    {
+        "location": "Lake Placid, NY",
+        "latitude": "44.279621",
+        "longitude": "-73.979874",
+        "total_number": 3,
+        "#warblers": 3
+    },
+    {
+        "location": "Panama",
+        "latitude": "8.559559",
+        "longitude": "-81.1308434",
+        "total_number": 3,
+        "#warblers": 3
+    },
+    {
+        "location": "Madison, WI",
+        "latitude": "43.074761",
+        "longitude": "-89.3837613",
+        "total_number": 10,
+        "#warblers": 6,
+        "#thrushes": 4
+    },
+    {
+        "location": "El Paso,TX",
+        "latitude": "31.7865623",
+        "longitude": "-106.441207",
+        "total_number": 3,
+        "#warblers": 3
+    },
+    {
+        "location": "Garland, TX",
+        "latitude": "32.912624",
+        "longitude": "-96.6388833",
+        "total_number": 3,
+        "#warblers": 3
+    },
+    {
+        "location": "Washington, D.C.",
+        "latitude": "38.9074322",
+        "longitude": "-77.0350922",
+        "total_number": 1,
+        "#orioles": 1
+    },
+    {
+        "location": "Planeta Tierra ",
+        "latitude": "-36.5341903",
+        "longitude": "-72.0878536",
+        "total_number": 1,
+        "#orioles": 1
+    },
+    {
+        "location": "Baltimore, MD USA",
+        "latitude": "39.2908816",
+        "longitude": "-76.610759",
+        "total_number": 6,
+        "#orioles": 6
+    },
+    {
+        "location": "Everywhere",
+        "latitude": "32.780595",
+        "longitude": "-96.8078766",
+        "total_number": 4,
+        "#orioles": 4
+    },
+    {
+        "location": "Maryland, USA",
+        "latitude": "39.5162401",
+        "longitude": "-76.9382069",
+        "total_number": 7,
+        "#orioles": 3,
+        "#ducks": 2,
+        "#buntings": 2
+    },
+    {
+        "location": "Indianapolis, IN",
+        "latitude": "39.7683331",
+        "longitude": "-86.1583502",
+        "total_number": 2,
+        "#orioles": 2
+    },
+    {
+        "location": "Ft Pierce Fl",
+        "latitude": "27.4467056",
+        "longitude": "-80.3256056",
+        "total_number": 1,
+        "#orioles": 1
+    },
+    {
+        "location": "Kiel, Germany",
+        "latitude": "54.3227085",
+        "longitude": "10.135555",
+        "total_number": 3,
+        "#buntings": 3
+    },
+    {
+        "location": "Hessen, Germany",
+        "latitude": "50.6080651",
+        "longitude": "9.0284647",
+        "total_number": 1,
+        "#bird": 1
+    },
+    {
+        "location": "central Illinois",
+        "latitude": "41.8874269",
+        "longitude": "-87.7655456",
+        "total_number": 1,
+        "#bird": 1
+    },
+    {
+        "location": "Kolhapur, Maharashtra, India",
+        "latitude": "16.7028412",
+        "longitude": "74.2405329",
+        "total_number": 2,
+        "#bird": 2
+    },
+    {
+        "location": "Bangladesh",
+        "latitude": "24.4769288",
+        "longitude": "90.2934413",
+        "total_number": 1,
+        "#bird": 1
+    },
+    {
+        "location": "Durham, England",
+        "latitude": "54.666667",
+        "longitude": "-1.75",
+        "total_number": 1,
+        "#bird": 1
+    },
+    {
+        "location": "Somerset, England",
+        "latitude": "51.161750850000004",
+        "longitude": "-3.0753867062227487",
+        "total_number": 2,
+        "#ducks": 2
+    },
+    {
+        "location": "Las Vegas, NV",
+        "latitude": "36.1672559",
+        "longitude": "-115.148516",
+        "total_number": 2,
+        "#ducks": 2
+    },
+    {
+        "location": "Abington, PA",
+        "latitude": "40.1206656",
+        "longitude": "-75.1179512",
+        "total_number": 4,
+        "#ducks": 2,
+        "#orioles": 2
+    },
+    {
+        "location": "Berwick, Melbourne Australia",
+        "latitude": "-38.0398297",
+        "longitude": "145.34510885630533",
+        "total_number": 2,
+        "#ducks": 2
+    },
+    {
+        "location": "B.C. Canada",
+        "latitude": "55.001251",
+        "longitude": "-125.002441",
+        "total_number": 2,
+        "#ducks": 2
+    },
+    {
+        "location": "Dorset",
+        "latitude": "50.79683685",
+        "longitude": "-2.34473226124306",
+        "total_number": 2,
+        "#ducks": 2
+    },
+    {
+        "location": "Mexico",
+        "latitude": "23.6585116",
+        "longitude": "-102.0077097",
+        "total_number": 2,
+        "#ducks": 2
+    },
+    {
+        "location": "Woodbridge, England",
+        "latitude": "52.0941323",
+        "longitude": "1.3199383",
+        "total_number": 2,
+        "#ducks": 2
+    },
+    {
+        "location": "Vancouver BC",
+        "latitude": "49.2608724",
+        "longitude": "-123.113952",
+        "total_number": 4,
+        "#ducks": 2,
+        "#grebes": 2
+    },
+    {
+        "location": "Garden Grove, CA",
+        "latitude": "33.7746292",
+        "longitude": "-117.9463717",
+        "total_number": 2,
+        "#ducks": 2
+    },
+    {
+        "location": "Michigan",
+        "latitude": "43.6211955",
+        "longitude": "-84.6824346",
+        "total_number": 5,
+        "#flamingos": 2,
+        "#bird": 2,
+        "#swallow": 1
+    },
+    {
+        "location": "Sunshine Coast Qld",
+        "latitude": "-26.5443222",
+        "longitude": "153.0507705",
+        "total_number": 2,
+        "#grebes": 2
+    },
+    {
+        "location": "Uranus",
+        "latitude": "44.4222156",
+        "longitude": "26.0820917",
+        "total_number": 2,
+        "#grebes": 2
+    },
+    {
+        "location": "Seville, Spain",
+        "latitude": "37.3886303",
+        "longitude": "-5.9953403",
+        "total_number": 3,
+        "#grebes": 2,
+        "#bird": 1
+    },
+    {
+        "location": "Alberta",
+        "latitude": "55.001251",
+        "longitude": "-115.002136",
+        "total_number": 6,
+        "#grebes": 6
+    },
+    {
+        "location": "Bengaluru, India",
+        "latitude": "12.9767936",
+        "longitude": "77.590082",
+        "total_number": 4,
+        "#grebes": 2,
+        "#flycatchers": 2
+    },
+    {
+        "location": "Inverness, Scotland",
+        "latitude": "57.4790124",
+        "longitude": "-4.225739",
+        "total_number": 6,
+        "#grebes": 2,
+        "#thrushes": 4
+    },
+    {
+        "location": "France",
+        "latitude": "46.603354",
+        "longitude": "1.8883335",
+        "total_number": 2,
+        "#grebes": 2
+    },
+    {
+        "location": "Red Deer, AB",
+        "latitude": "52.2690628",
+        "longitude": "-113.8141464",
+        "total_number": 2,
+        "#grebes": 2
+    },
+    {
+        "location": "Denver, CO",
+        "latitude": "39.7392364",
+        "longitude": "-104.984862",
+        "total_number": 2,
+        "#doves": 2
+    },
+    {
+        "location": "Arvada, CO",
+        "latitude": "39.8005505",
+        "longitude": "-105.0811573",
+        "total_number": 2,
+        "#doves": 2
+    },
+    {
+        "location": "Kidderminster UK",
+        "latitude": "52.3880787",
+        "longitude": "-2.2478582",
+        "total_number": 2,
+        "#flycatchers": 2
+    },
+    {
+        "location": "Germany",
+        "latitude": "51.1638175",
+        "longitude": "10.4478313",
+        "total_number": 2,
+        "#flycatchers": 2
+    },
+    {
+        "location": "Heaton Moor, Stockport",
+        "latitude": "53.4224912",
+        "longitude": "-2.1849941",
+        "total_number": 6,
+        "#flycatchers": 2,
+        "#thrushes": 4
+    },
+    {
+        "location": "Thailand",
+        "latitude": "14.8971921",
+        "longitude": "100.83273",
+        "total_number": 2,
+        "#flycatchers": 2
+    },
+    {
+        "location": "Sandy, Utah",
+        "latitude": "40.5710454",
+        "longitude": "-111.8953815",
+        "total_number": 2,
+        "#flycatchers": 2
+    },
+    {
+        "location": "MD 8th",
+        "latitude": "40.6744258",
+        "longitude": "-73.9720584",
+        "total_number": 2,
+        "#flycatchers": 2
+    },
+    {
+        "location": "Valencia, Comunidad Valenciana",
+        "latitude": "39.4697065",
+        "longitude": "-0.3763353",
+        "total_number": 8,
+        "#thrushes": 8
+    },
+    {
+        "location": "Kent, UK ",
+        "latitude": "51.20707485",
+        "longitude": "0.7210361813401444",
+        "total_number": 4,
+        "#thrushes": 4
+    },
+    {
+        "location": "Devon, England ",
+        "latitude": "50.724140500000004",
+        "longitude": "-3.6607788161410735",
+        "total_number": 4,
+        "#thrushes": 4
+    },
+    {
+        "location": "Marburg, GERMANY",
+        "latitude": "50.8090106",
+        "longitude": "8.7704695",
+        "total_number": 4,
+        "#thrushes": 4
+    },
+    {
+        "location": "York",
+        "latitude": "53.9590555",
+        "longitude": "-1.0815361",
+        "total_number": 8,
+        "#thrushes": 8
+    },
+    {
+        "location": "Ireland",
+        "latitude": "52.865196",
+        "longitude": "-7.9794599",
+        "total_number": 4,
+        "#thrushes": 4
+    },
+    {
+        "location": "Lincolnshire ",
+        "latitude": "53.1823034",
+        "longitude": "-0.2031208542548153",
+        "total_number": 4,
+        "#thrushes": 4
+    },
+    {
+        "location": "Lone Star State",
+        "latitude": "40.6206829",
+        "longitude": "-74.0266993",
+        "total_number": 2,
+        "#pelicans": 2
+    },
+    {
+        "location": "Mobile, AL",
+        "latitude": "30.6867339",
+        "longitude": "-88.0848929",
+        "total_number": 2,
+        "#pelicans": 2
+    },
+    {
+        "location": "Philippines",
+        "latitude": "12.7503486",
+        "longitude": "122.7312101",
+        "total_number": 2,
+        "#pelicans": 2
+    },
+    {
+        "location": "Fort Myers, Florida",
+        "latitude": "26.640628",
+        "longitude": "-81.8723084",
+        "total_number": 2,
+        "#pelicans": 2
+    },
+    {
+        "location": "Houston, TX",
+        "latitude": "29.7589382",
+        "longitude": "-95.3676974",
+        "total_number": 4,
+        "#pelicans": 3,
+        "#bird": 1
+    },
+    {
+        "location": "BR, LA ",
+        "latitude": "25.0100107",
+        "longitude": "121.5602969",
+        "total_number": 2,
+        "#pelicans": 2
+    },
+    {
+        "location": "504",
+        "latitude": "48.9698618",
+        "longitude": "11.9336868",
+        "total_number": 2,
+        "#pelicans": 2
+    },
+    {
+        "location": "Covington, LA",
+        "latitude": "31.196549",
+        "longitude": "-86.4597236",
+        "total_number": 2,
+        "#pelicans": 2
+    },
+    {
+        "location": "South Florida",
+        "latitude": "37.1677128",
+        "longitude": "-94.8464256",
+        "total_number": 2,
+        "#pelicans": 2
+    },
+    {
+        "location": "New England",
+        "latitude": "44.2057083",
+        "longitude": "-70.75378387447887",
+        "total_number": 2,
+        "#pelicans": 2
+    },
+    {
+        "location": "Georgia, USA",
+        "latitude": "32.3293809",
+        "longitude": "-83.1137366",
+        "total_number": 3,
+        "#pelicans": 3
+    },
+    {
+        "location": "Uptown New Orleans ",
+        "latitude": "29.9364059",
+        "longitude": "-90.101181",
+        "total_number": 1,
+        "#pelicans": 1
+    },
+    {
+        "location": "Puerto Rico",
+        "latitude": "18.2247706",
+        "longitude": "-66.4858295",
+        "total_number": 1,
+        "#pelicans": 1
+    },
+    {
+        "location": "Stroud, Gloucestershire",
+        "latitude": "51.745424",
+        "longitude": "-2.2198605",
+        "total_number": 2,
+        "#swifts": 2
+    },
+    {
+        "location": "Maldon, Essex",
+        "latitude": "51.7155563",
+        "longitude": "0.6843547574257541",
+        "total_number": 2,
+        "#swifts": 2
+    },
+    {
+        "location": "Heybridge, England",
+        "latitude": "51.7326841",
+        "longitude": "0.775163963647293",
+        "total_number": 2,
+        "#swifts": 2
+    },
+    {
+        "location": "Bedford, NY",
+        "latitude": "41.2041304",
+        "longitude": "-73.642509",
+        "total_number": 2,
+        "#waterbirds": 2
+    },
+    {
+        "location": "Eugene",
+        "latitude": "44.0505054",
+        "longitude": "-123.0950506",
+        "total_number": 2,
+        "#waterbirds": 2
+    },
+    {
+        "location": "Maryland Baby",
+        "latitude": "39.301527",
+        "longitude": "-76.6169291",
+        "total_number": 2,
+        "#orioles": 2
+    },
+    {
+        "location": "Indonesia",
+        "latitude": "-2.4833826",
+        "longitude": "117.8902853",
+        "total_number": 2,
+        "#orioles": 2
+    },
+    {
+        "location": "Los Angeles, CA",
+        "latitude": "34.0536909",
+        "longitude": "-118.242766",
+        "total_number": 1,
+        "#orioles": 1
+    },
+    {
+        "location": "Melbourne, Australia",
+        "latitude": "-37.8142176",
+        "longitude": "144.9631608",
+        "total_number": 2,
+        "#buntings": 2
+    },
+    {
+        "location": "Berlin",
+        "latitude": "52.5170365",
+        "longitude": "13.3888599",
+        "total_number": 10,
+        "#buntings": 10
+    },
+    {
+        "location": "Swanley, Kent",
+        "latitude": "51.39750895",
+        "longitude": "0.18022632679075817",
+        "total_number": 2,
+        "#buntings": 2
+    },
+    {
+        "location": "Bradford, England",
+        "latitude": "53.7944229",
+        "longitude": "-1.7519186",
+        "total_number": 2,
+        "#buntings": 2
+    },
+    {
+        "location": "Falmouth, Cornwall, UK",
+        "latitude": "50.1552197",
+        "longitude": "-5.0688262",
+        "total_number": 2,
+        "#buntings": 2
+    },
+    {
+        "location": "Redeyef, Tunisia",
+        "latitude": "34.3843201",
+        "longitude": "8.1538874",
+        "total_number": 2,
+        "#buntings": 2
+    },
+    {
+        "location": "Maine, USA",
+        "latitude": "45.709097",
+        "longitude": "-68.8590201",
+        "total_number": 2,
+        "#buntings": 2
+    },
+    {
+        "location": "York, South Carolina USA",
+        "latitude": "34.9603293",
+        "longitude": "-81.1655408",
+        "total_number": 2,
+        "#buntings": 2
+    },
+    {
+        "location": "Leicester LE5 6LN",
+        "latitude": "52.6265678",
+        "longitude": "-1.0635479",
+        "total_number": 2,
+        "#buntings": 2
+    },
+    {
+        "location": "Havant, England",
+        "latitude": "50.8334197",
+        "longitude": "-0.9826589433165432",
+        "total_number": 2,
+        "#buntings": 2
+    },
+    {
+        "location": "Gurgaon",
+        "latitude": "28.42826235",
+        "longitude": "77.00270014657752",
+        "total_number": 2,
+        "#buntings": 2
+    },
+    {
+        "location": "Riyadh, Saudi Arabia",
+        "latitude": "24.638916",
+        "longitude": "46.7160104",
+        "total_number": 2,
+        "#buntings": 2
+    },
+    {
+        "location": "North Carolina, USA",
+        "latitude": "35.6729639",
+        "longitude": "-79.0392919",
+        "total_number": 2,
+        "#swallow": 2
+    },
+    {
+        "location": "Koreatown, Los Angeles",
+        "latitude": "34.0617936",
+        "longitude": "-118.305447",
+        "total_number": 2,
+        "#swallow": 2
+    },
+    {
+        "location": "Pennsylvania, USA",
+        "latitude": "40.9699889",
+        "longitude": "-77.7278831",
+        "total_number": 1,
+        "#swallow": 1
+    },
+    {
+        "location": "Mohali, India",
+        "latitude": "30.7041168",
+        "longitude": "76.7176885",
+        "total_number": 1,
+        "#bird": 1
+    },
+    {
+        "location": "Switzerland",
+        "latitude": "46.7985624",
+        "longitude": "8.2319736",
+        "total_number": 3,
+        "#bird": 3
+    },
+    {
+        "location": "Chicago Suburbs",
+        "latitude": "-33.951083",
+        "longitude": "151.2439781",
+        "total_number": 1,
+        "#bird": 1
+    },
+    {
+        "location": "Orlando Florida",
+        "latitude": "28.5421109",
+        "longitude": "-81.3790304",
+        "total_number": 1,
+        "#bird": 1
+    },
+    {
+        "location": "Vadodara, Gujarat, India",
+        "latitude": "22.2973142",
+        "longitude": "73.1942567",
+        "total_number": 1,
+        "#bird": 1
+    },
+    {
+        "location": "Malta",
+        "latitude": "35.8885993",
+        "longitude": "14.4476911",
+        "total_number": 1,
+        "#bird": 1
+    },
+    {
+        "location": "Coconut Creek, Florida",
+        "latitude": "26.2517482",
+        "longitude": "-80.1789351",
+        "total_number": 1,
+        "#bird": 1
+    },
+    {
+        "location": "San Jose, California",
+        "latitude": "37.3361663",
+        "longitude": "-121.890591",
+        "total_number": 1,
+        "#bird": 1
+    },
+    {
+        "location": "Guwahati, India",
+        "latitude": "26.1805978",
+        "longitude": "91.753943",
+        "total_number": 1,
+        "#bird": 1
+    },
+    {
+        "location": "New Jersey, USA",
+        "latitude": "40.0757384",
+        "longitude": "-74.4041622",
+        "total_number": 1,
+        "#ducks": 1
+    },
+    {
+        "location": "Gardner, IL",
+        "latitude": "41.1858456",
+        "longitude": "-88.3097673",
+        "total_number": 1,
+        "#ducks": 1
+    },
+    {
+        "location": "boston, ma",
+        "latitude": "42.3554334",
+        "longitude": "-71.060511",
+        "total_number": 1,
+        "#flamingos": 1
+    },
+    {
+        "location": "Kagoshima,Japan",
+        "latitude": "31.521587",
+        "longitude": "130.5474077",
+        "total_number": 1,
+        "#swallows": 1
+    },
+    {
+        "location": "India",
+        "latitude": "22.3511148",
+        "longitude": "78.6677428",
+        "total_number": 1,
+        "#waterbirds": 1
+    },
+    {
+        "location": "Atlanta, GA",
+        "latitude": "33.7489924",
+        "longitude": "-84.3902644",
+        "total_number": 2,
+        "#swallow": 2
+    }
+]
