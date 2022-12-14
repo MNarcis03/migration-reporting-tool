@@ -1,12 +1,13 @@
 const express = require("express");
-const { EnteringLog, ExitingLog } = require("./src/aspect/method.aspect.js");
+const cors = require("cors");
 
 const app = express();
 const port = 3000;
 
-const birdTweetsRouter = require("./src/routes/birdTweets.route");
+const birdMigrationRouter = require("./src/routes/birdMigration.route");
 
 app.use(express.json());
+app.use(cors());
 
 app.use(
   express.urlencoded({
@@ -18,7 +19,7 @@ app.get("/", (req, res) => {
   res.json({ message: "ok" });
 });
 
-app.use("/birdTweets", birdTweetsRouter);
+app.use("/birdMigration", birdMigrationRouter);
 
 /* Error handler middleware */
 app.use((err, req, res, next) => {

@@ -1,15 +1,13 @@
-CREATE TABLE `bird_tweets`
+CREATE TABLE `bird_migration`
 (
-  `id`            INT(11) NOT NULL auto_increment ,
-  `tweet_id`      VARCHAR(255) NULL,
-  `caption`       VARCHAR(255) NULL ,
-  `image_url`     VARCHAR(127) NULL ,
-  `location`      VARCHAR(64) NULL ,
-  `time_and_date` DATETIME NULL ,
-  `bird_species`  VARCHAR(32) NULL,
+  `id`            INT(64) NOT NULL auto_increment ,
+  `species`       VARCHAR(128) NOT NULL ,
+  `appearances`   VARCHAR(64) NOT NULL ,
+  `location`      VARCHAR(64) NOT NULL ,
+  `latitude`      VARCHAR(64) NOT NULL ,
+  `longitude`     VARCHAR(64) NOT NULL ,
   `created_at`    DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP ,
   `updated_at`    DATETIME on UPDATE CURRENT_TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ,
-  PRIMARY KEY (`id`),
-  CONSTRAINT unique_tweet_id UNIQUE (`tweet_id`)
+  PRIMARY KEY (`id`)
 )
 engine = innodb charset=utf8mb4 COLLATE utf8mb4_general_ci;

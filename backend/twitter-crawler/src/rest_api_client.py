@@ -1,7 +1,7 @@
 import requests
 from dotenv import dotenv_values
 from singleton_meta import SingletonMeta
-from tweet_model import TweetModel
+from bird_migration_model import BirdMigrationModel
 
 
 class RestApiClient(metaclass = SingletonMeta):
@@ -24,13 +24,13 @@ class RestApiClient(metaclass = SingletonMeta):
                 self.__url = host + ":" + port + route
 
 
-    def POST(self, _tweet):
-        if isinstance(_tweet, TweetModel):
-            data = _tweet.get_data()
+    def post(self, _model):
+        if isinstance(_model, BirdMigrationModel):
+            model = _model.get_model()
 
-            if None != data:
+            if None != model:
                 if None != self.__url:
-                    req = requests.post(url=self.__url, json=data)
+                    req = requests.post(url=self.__url, json=model)
                     return True
                 else: print("Invalid URL!")
             else: print("Invalid JSON!")
