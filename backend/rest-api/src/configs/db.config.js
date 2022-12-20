@@ -5,6 +5,7 @@ const config = {
       user: "admin",
       password: "admin",
       database: "bird_mig_reporting_tool_db",
+      connectionLimit: 10,
     },
     listPerPage: 10,
 };
