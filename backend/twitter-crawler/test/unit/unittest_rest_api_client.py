@@ -2,9 +2,9 @@ import sys
 import unittest
 
 
-sys.path.append("../src")
+sys.path.append("../../src")
 from rest_api_client import RestApiClient
-from tweet_model import TweetModel
+from bird_migration_model import BirdMigrationModel
 
 
 class TestRestApiClient(unittest.TestCase):

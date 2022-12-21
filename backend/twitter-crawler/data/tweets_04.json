@@ -1,0 +1,3596 @@
+[
+    {
+        "tweet_id": "1595329380812816384",
+        "date": "Wed Nov 23 08:12:18 +0000 2022",
+        "user_id": 28632377,
+        "type": "#bird",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Potton"
+    },
+    {
+        "tweet_id": "1595327443207786502",
+        "date": "Wed Nov 23 08:04:36 +0000 2022",
+        "user_id": 1019850806,
+        "type": "#bird",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1595326329695588353",
+        "date": "Wed Nov 23 08:00:11 +0000 2022",
+        "user_id": 490841636,
+        "type": "#bird",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "San Francisco, CA"
+    },
+    {
+        "tweet_id": "1595326294040145920",
+        "date": "Wed Nov 23 08:00:02 +0000 2022",
+        "user_id": 1435895161280626688,
+        "type": "#bird",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Zoo Friends Channel"
+    },
+    {
+        "tweet_id": "1595324442049417218",
+        "date": "Wed Nov 23 07:52:41 +0000 2022",
+        "user_id": 1133581423258947584,
+        "type": "#bird",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\u65e5\u672c"
+    },
+    {
+        "tweet_id": "1595323899591282688",
+        "date": "Wed Nov 23 07:50:32 +0000 2022",
+        "user_id": 1175605697414778882,
+        "type": "#bird",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1595322448894783488",
+        "date": "Wed Nov 23 07:44:46 +0000 2022",
+        "user_id": 855517990305050624,
+        "type": "#bird",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "United Kingdom"
+    },
+    {
+        "tweet_id": "1595319904387096576",
+        "date": "Wed Nov 23 07:34:39 +0000 2022",
+        "user_id": 1051128567730503682,
+        "type": "#bird",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Lombardia, Italia"
+    },
+    {
+        "tweet_id": "1595319253103955968",
+        "date": "Wed Nov 23 07:32:04 +0000 2022",
+        "user_id": 1133581423258947584,
+        "type": "#bird",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\u65e5\u672c"
+    },
+    {
+        "tweet_id": "1595316483902480385",
+        "date": "Wed Nov 23 07:21:03 +0000 2022",
+        "user_id": 1202867412107816960,
+        "type": "#bird",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\u5eb5"
+    },
+    {
+        "tweet_id": "1595315952698068992",
+        "date": "Wed Nov 23 07:18:57 +0000 2022",
+        "user_id": 1470590435814895617,
+        "type": "#bird",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Petaling Jaya, Selangor"
+    },
+    {
+        "tweet_id": "1595315411779624960",
+        "date": "Wed Nov 23 07:16:48 +0000 2022",
+        "user_id": 1202867412107816960,
+        "type": "#bird",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\u5eb5"
+    },
+    {
+        "tweet_id": "1595313517913337857",
+        "date": "Wed Nov 23 07:09:16 +0000 2022",
+        "user_id": 1308313487416852483,
+        "type": "#bird",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Hindusthan"
+    },
+    {
+        "tweet_id": "1595312687512055809",
+        "date": "Wed Nov 23 07:05:58 +0000 2022",
+        "user_id": 307391233,
+        "type": "#bird",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Durham, England"
+    },
+    {
+        "tweet_id": "1595312687503679488",
+        "date": "Wed Nov 23 07:05:58 +0000 2022",
+        "user_id": 1954786172,
+        "type": "#bird",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Durham, England"
+    },
+    {
+        "tweet_id": "1595312687365455872",
+        "date": "Wed Nov 23 07:05:58 +0000 2022",
+        "user_id": 1060490347,
+        "type": "#bird",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Durham, England"
+    },
+    {
+        "tweet_id": "1595312319898079232",
+        "date": "Wed Nov 23 07:04:31 +0000 2022",
+        "user_id": 44638569,
+        "type": "#bird",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Placentia, CA"
+    },
+    {
+        "tweet_id": "1595312243570184193",
+        "date": "Wed Nov 23 07:04:12 +0000 2022",
+        "user_id": 1081668004474105856,
+        "type": "#bird",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "United States"
+    },
+    {
+        "tweet_id": "1595311706103693312",
+        "date": "Wed Nov 23 07:02:04 +0000 2022",
+        "user_id": 50180715,
+        "type": "#bird",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Livermore CA"
+    },
+    {
+        "tweet_id": "1595311383662718977",
+        "date": "Wed Nov 23 07:00:47 +0000 2022",
+        "user_id": 1470590435814895617,
+        "type": "#bird",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Petaling Jaya, Selangor"
+    },
+    {
+        "tweet_id": "1595308615841480705",
+        "date": "Wed Nov 23 06:49:48 +0000 2022",
+        "user_id": 1214891567913127936,
+        "type": "#bird",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "India \ud83c\uddee\ud83c\uddf3\ud83c\udf42\ud83c\udf41\ud83c\udf42\ud83c\udf41\ud83c\udf42\ud83c\udf41\ud83c\udf42"
+    },
+    {
+        "tweet_id": "1595307635963592705",
+        "date": "Wed Nov 23 06:45:54 +0000 2022",
+        "user_id": 1574884926108753920,
+        "type": "#bird",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1595307567005061120",
+        "date": "Wed Nov 23 06:45:38 +0000 2022",
+        "user_id": 1594895009957830656,
+        "type": "#bird",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Hsinchu City, Taiwan"
+    },
+    {
+        "tweet_id": "1595306465740304384",
+        "date": "Wed Nov 23 06:41:15 +0000 2022",
+        "user_id": 1453587021142769666,
+        "type": "#bird",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\u6a2a\u6d5c\u5e02"
+    },
+    {
+        "tweet_id": "1595305646894723072",
+        "date": "Wed Nov 23 06:38:00 +0000 2022",
+        "user_id": 1495666754600660993,
+        "type": "#bird",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Hong Kong"
+    },
+    {
+        "tweet_id": "1595304644326170624",
+        "date": "Wed Nov 23 06:34:01 +0000 2022",
+        "user_id": 899679253586993152,
+        "type": "#bird",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1595304119257821192",
+        "date": "Wed Nov 23 06:31:56 +0000 2022",
+        "user_id": 1586790039047921664,
+        "type": "#bird",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1595303515898920967",
+        "date": "Wed Nov 23 06:29:32 +0000 2022",
+        "user_id": 1579731624303988736,
+        "type": "#bird",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\u015al\u0105skie, Polska"
+    },
+    {
+        "tweet_id": "1595303003028074496",
+        "date": "Wed Nov 23 06:27:29 +0000 2022",
+        "user_id": 1271003145573814272,
+        "type": "#bird",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "my Instagram URL is \u2765\u2765\u2765"
+    },
+    {
+        "tweet_id": "1595302831417970690",
+        "date": "Wed Nov 23 06:26:48 +0000 2022",
+        "user_id": 144120109,
+        "type": "#bird",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Oxford, England"
+    },
+    {
+        "tweet_id": "1595302085787992064",
+        "date": "Wed Nov 23 06:23:51 +0000 2022",
+        "user_id": 1574705036071796736,
+        "type": "#bird",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1595302061520080896",
+        "date": "Wed Nov 23 06:23:45 +0000 2022",
+        "user_id": 849825487207636992,
+        "type": "#bird",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\u65e5\u672c \u6771\u4eac"
+    },
+    {
+        "tweet_id": "1595300928235524096",
+        "date": "Wed Nov 23 06:19:15 +0000 2022",
+        "user_id": 1027594974789951488,
+        "type": "#bird",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\u795e\u6238\u5e02"
+    },
+    {
+        "tweet_id": "1595300341570236416",
+        "date": "Wed Nov 23 06:16:55 +0000 2022",
+        "user_id": 821289831070240770,
+        "type": "#bird",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "India"
+    },
+    {
+        "tweet_id": "1595299844561989633",
+        "date": "Wed Nov 23 06:14:56 +0000 2022",
+        "user_id": 904573384696233989,
+        "type": "#bird",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1595296911803621376",
+        "date": "Wed Nov 23 06:03:17 +0000 2022",
+        "user_id": 1287868414896168961,
+        "type": "#bird",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1595327263830147072",
+        "date": "Wed Nov 23 08:03:54 +0000 2022",
+        "user_id": 48312144,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Royal Tunbridge Wells"
+    },
+    {
+        "tweet_id": "1595319002452066304",
+        "date": "Wed Nov 23 07:31:04 +0000 2022",
+        "user_id": 269924808,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Devon"
+    },
+    {
+        "tweet_id": "1595317952366415873",
+        "date": "Wed Nov 23 07:26:54 +0000 2022",
+        "user_id": 1487084347312201730,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Pond"
+    },
+    {
+        "tweet_id": "1595317952198451201",
+        "date": "Wed Nov 23 07:26:54 +0000 2022",
+        "user_id": 1487084347312201730,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Pond"
+    },
+    {
+        "tweet_id": "1595316993669799937",
+        "date": "Wed Nov 23 07:23:05 +0000 2022",
+        "user_id": 1487084347312201730,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Pond"
+    },
+    {
+        "tweet_id": "1595316993489510401",
+        "date": "Wed Nov 23 07:23:05 +0000 2022",
+        "user_id": 1487084347312201730,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Pond"
+    },
+    {
+        "tweet_id": "1595309331158900736",
+        "date": "Wed Nov 23 06:52:38 +0000 2022",
+        "user_id": 1487084347312201730,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Pond"
+    },
+    {
+        "tweet_id": "1595308884331483137",
+        "date": "Wed Nov 23 06:50:52 +0000 2022",
+        "user_id": 627577042,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1595305105490071552",
+        "date": "Wed Nov 23 06:35:51 +0000 2022",
+        "user_id": 627577042,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1595292048277622784",
+        "date": "Wed Nov 23 05:43:58 +0000 2022",
+        "user_id": 1593423041995984898,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "New England"
+    },
+    {
+        "tweet_id": "1595281808056152064",
+        "date": "Wed Nov 23 05:03:16 +0000 2022",
+        "user_id": 1487084347312201730,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Pond"
+    },
+    {
+        "tweet_id": "1595281807913648128",
+        "date": "Wed Nov 23 05:03:16 +0000 2022",
+        "user_id": 1487084347312201730,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Pond"
+    },
+    {
+        "tweet_id": "1595275091469737984",
+        "date": "Wed Nov 23 04:36:35 +0000 2022",
+        "user_id": 1595262045150011392,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1595254096004468738",
+        "date": "Wed Nov 23 03:13:09 +0000 2022",
+        "user_id": 1332855162281615360,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1595252945532002305",
+        "date": "Wed Nov 23 03:08:35 +0000 2022",
+        "user_id": 1586910248249413633,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1595251018714865664",
+        "date": "Wed Nov 23 03:00:55 +0000 2022",
+        "user_id": 831078007,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Los Angeles"
+    },
+    {
+        "tweet_id": "1595250453000126464",
+        "date": "Wed Nov 23 02:58:40 +0000 2022",
+        "user_id": 4758866355,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "NYC"
+    },
+    {
+        "tweet_id": "1595249898210746368",
+        "date": "Wed Nov 23 02:56:28 +0000 2022",
+        "user_id": 1487084347312201730,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Pond"
+    },
+    {
+        "tweet_id": "1595249898085122048",
+        "date": "Wed Nov 23 02:56:28 +0000 2022",
+        "user_id": 1487084347312201730,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Pond"
+    },
+    {
+        "tweet_id": "1595242592781770753",
+        "date": "Wed Nov 23 02:27:26 +0000 2022",
+        "user_id": 1487084347312201730,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Pond"
+    },
+    {
+        "tweet_id": "1595242592773734400",
+        "date": "Wed Nov 23 02:27:26 +0000 2022",
+        "user_id": 1487084347312201730,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Pond"
+    },
+    {
+        "tweet_id": "1595242592614187010",
+        "date": "Wed Nov 23 02:27:26 +0000 2022",
+        "user_id": 1487084347312201730,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Pond"
+    },
+    {
+        "tweet_id": "1595242592442417152",
+        "date": "Wed Nov 23 02:27:26 +0000 2022",
+        "user_id": 1487084347312201730,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Pond"
+    },
+    {
+        "tweet_id": "1595242592437817349",
+        "date": "Wed Nov 23 02:27:26 +0000 2022",
+        "user_id": 1487084347312201730,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Pond"
+    },
+    {
+        "tweet_id": "1595242592278560769",
+        "date": "Wed Nov 23 02:27:26 +0000 2022",
+        "user_id": 1487084347312201730,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Pond"
+    },
+    {
+        "tweet_id": "1595242592232513538",
+        "date": "Wed Nov 23 02:27:26 +0000 2022",
+        "user_id": 1487084347312201730,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Pond"
+    },
+    {
+        "tweet_id": "1595239797542760449",
+        "date": "Wed Nov 23 02:16:20 +0000 2022",
+        "user_id": 14799932,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Malaysia"
+    },
+    {
+        "tweet_id": "1595224196145184770",
+        "date": "Wed Nov 23 01:14:20 +0000 2022",
+        "user_id": 37044409,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\u260e\ufe0f (405) 880-2316 Textline"
+    },
+    {
+        "tweet_id": "1595212813051392000",
+        "date": "Wed Nov 23 00:29:06 +0000 2022",
+        "user_id": 1092885016068018176,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1595208563135225858",
+        "date": "Wed Nov 23 00:12:13 +0000 2022",
+        "user_id": 50717747,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Nova Scotia, Canada"
+    },
+    {
+        "tweet_id": "1595203721985753088",
+        "date": "Tue Nov 22 23:52:59 +0000 2022",
+        "user_id": 1119062904224010241,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1595188007858061317",
+        "date": "Tue Nov 22 22:50:32 +0000 2022",
+        "user_id": 1119062904224010241,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1595186325409652737",
+        "date": "Tue Nov 22 22:43:51 +0000 2022",
+        "user_id": 170021040,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Connecticut"
+    },
+    {
+        "tweet_id": "1595181946946174976",
+        "date": "Tue Nov 22 22:26:27 +0000 2022",
+        "user_id": 1119062904224010241,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1595180979488182276",
+        "date": "Tue Nov 22 22:22:37 +0000 2022",
+        "user_id": 37947867,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Oregon, USA"
+    },
+    {
+        "tweet_id": "1595173133958451209",
+        "date": "Tue Nov 22 21:51:26 +0000 2022",
+        "user_id": 1353004161491726345,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1595164582267740160",
+        "date": "Tue Nov 22 21:17:27 +0000 2022",
+        "user_id": 1348855934,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Seattle"
+    },
+    {
+        "tweet_id": "1595161320852455425",
+        "date": "Tue Nov 22 21:04:30 +0000 2022",
+        "user_id": 707316249777143808,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Washington, DC"
+    },
+    {
+        "tweet_id": "1595155693631598592",
+        "date": "Tue Nov 22 20:42:08 +0000 2022",
+        "user_id": 397454472,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Hertford "
+    },
+    {
+        "tweet_id": "1595152194265022464",
+        "date": "Tue Nov 22 20:28:14 +0000 2022",
+        "user_id": 1105887470011465728,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Ontario, Canada"
+    },
+    {
+        "tweet_id": "1595146599969468416",
+        "date": "Tue Nov 22 20:06:00 +0000 2022",
+        "user_id": 1428184615244771329,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "buzzing in your walls"
+    },
+    {
+        "tweet_id": "1595146137639342080",
+        "date": "Tue Nov 22 20:04:10 +0000 2022",
+        "user_id": 20114974,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "North America"
+    },
+    {
+        "tweet_id": "1595144651090296832",
+        "date": "Tue Nov 22 19:58:15 +0000 2022",
+        "user_id": 825258902656778241,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1595143847855915008",
+        "date": "Tue Nov 22 19:55:04 +0000 2022",
+        "user_id": 231387233,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "NYC"
+    },
+    {
+        "tweet_id": "1595143060974755840",
+        "date": "Tue Nov 22 19:51:56 +0000 2022",
+        "user_id": 1128017897706721280,
+        "type": "#ducks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Texas"
+    },
+    {
+        "tweet_id": "1595313248525590532",
+        "date": "Wed Nov 23 07:08:12 +0000 2022",
+        "user_id": 851823527137353728,
+        "type": "#flamingos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Tunisia"
+    },
+    {
+        "tweet_id": "1595311190686793728",
+        "date": "Wed Nov 23 07:00:01 +0000 2022",
+        "user_id": 731799403023962114,
+        "type": "#flamingos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Tunisia"
+    },
+    {
+        "tweet_id": "1595216409440796672",
+        "date": "Wed Nov 23 00:43:24 +0000 2022",
+        "user_id": 2692765586,
+        "type": "#flamingos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Florida, USA"
+    },
+    {
+        "tweet_id": "1595175335984828439",
+        "date": "Tue Nov 22 22:00:11 +0000 2022",
+        "user_id": 1157569994,
+        "type": "#flamingos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Kansas, USA"
+    },
+    {
+        "tweet_id": "1595083242180329473",
+        "date": "Tue Nov 22 15:54:14 +0000 2022",
+        "user_id": 188036563,
+        "type": "#flamingos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Arusha, Tanzania"
+    },
+    {
+        "tweet_id": "1595074145804509185",
+        "date": "Tue Nov 22 15:18:06 +0000 2022",
+        "user_id": 1367151978,
+        "type": "#flamingos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Tallahassee"
+    },
+    {
+        "tweet_id": "1595049951561908224",
+        "date": "Tue Nov 22 13:41:57 +0000 2022",
+        "user_id": 2790930764,
+        "type": "#flamingos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Nova Scotia, Canada"
+    },
+    {
+        "tweet_id": "1594973436807454721",
+        "date": "Tue Nov 22 08:37:55 +0000 2022",
+        "user_id": 209561187,
+        "type": "#flamingos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Barcelona, Espa\u00f1a"
+    },
+    {
+        "tweet_id": "1594973272461942787",
+        "date": "Tue Nov 22 08:37:15 +0000 2022",
+        "user_id": 858563987600023553,
+        "type": "#flamingos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Kolkata, India"
+    },
+    {
+        "tweet_id": "1594888214833152000",
+        "date": "Tue Nov 22 02:59:16 +0000 2022",
+        "user_id": 1157569994,
+        "type": "#flamingos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Kansas, USA"
+    },
+    {
+        "tweet_id": "1594864377383067651",
+        "date": "Tue Nov 22 01:24:33 +0000 2022",
+        "user_id": 1157569994,
+        "type": "#flamingos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Kansas, USA"
+    },
+    {
+        "tweet_id": "1594832524404035585",
+        "date": "Mon Nov 21 23:17:59 +0000 2022",
+        "user_id": 1513737258993696770,
+        "type": "#flamingos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1594772503284617237",
+        "date": "Mon Nov 21 19:19:28 +0000 2022",
+        "user_id": 2692765586,
+        "type": "#flamingos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Florida, USA"
+    },
+    {
+        "tweet_id": "1594763835042369550",
+        "date": "Mon Nov 21 18:45:02 +0000 2022",
+        "user_id": 1141353498690277378,
+        "type": "#flamingos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Puebla, M\u00e9xico "
+    },
+    {
+        "tweet_id": "1590681220660490241",
+        "date": "Thu Nov 10 12:22:11 +0000 2022",
+        "user_id": 1373302836,
+        "type": "#grebes",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Lawrence Township, New Jersey"
+    },
+    {
+        "tweet_id": "1586409677046579200",
+        "date": "Sat Oct 29 17:28:35 +0000 2022",
+        "user_id": 22424766,
+        "type": "#grebes",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Budapest, Hungary"
+    },
+    {
+        "tweet_id": "1595312905343344640",
+        "date": "Wed Nov 23 07:06:50 +0000 2022",
+        "user_id": 4858461027,
+        "type": "#doves",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Orange City, FL"
+    },
+    {
+        "tweet_id": "1595206842069573632",
+        "date": "Wed Nov 23 00:05:23 +0000 2022",
+        "user_id": 1188516295,
+        "type": "#doves",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "San Francisco, CA"
+    },
+    {
+        "tweet_id": "1595161808087658496",
+        "date": "Tue Nov 22 21:06:26 +0000 2022",
+        "user_id": 1445494781946122255,
+        "type": "#doves",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Declive Land "
+    },
+    {
+        "tweet_id": "1595141573561679872",
+        "date": "Tue Nov 22 19:46:02 +0000 2022",
+        "user_id": 284919646,
+        "type": "#doves",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "UK"
+    },
+    {
+        "tweet_id": "1595054867445325824",
+        "date": "Tue Nov 22 14:01:29 +0000 2022",
+        "user_id": 1031339903282495488,
+        "type": "#doves",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Lee's Summit, MO"
+    },
+    {
+        "tweet_id": "1595017066993573894",
+        "date": "Tue Nov 22 11:31:17 +0000 2022",
+        "user_id": 901219017611980801,
+        "type": "#doves",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Rural Ontario"
+    },
+    {
+        "tweet_id": "1594757859853553664",
+        "date": "Mon Nov 21 18:21:17 +0000 2022",
+        "user_id": 766783816891453440,
+        "type": "#doves",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "DeepSEA"
+    },
+    {
+        "tweet_id": "1594746701733953537",
+        "date": "Mon Nov 21 17:36:57 +0000 2022",
+        "user_id": 36816846,
+        "type": "#doves",
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                40.67246058,
+                -73.97734165
+            ]
+        },
+        "coordinates": {
+            "type": "Point",
+            "coordinates": [
+                -73.97734165,
+                40.67246058
+            ]
+        },
+        "user_location": "IG : @polopirata "
+    },
+    {
+        "tweet_id": "1594654866361749504",
+        "date": "Mon Nov 21 11:32:02 +0000 2022",
+        "user_id": 325874529,
+        "type": "#doves",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\u0130stanbul"
+    },
+    {
+        "tweet_id": "1594627436397961225",
+        "date": "Mon Nov 21 09:43:02 +0000 2022",
+        "user_id": 325874529,
+        "type": "#doves",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\u0130stanbul"
+    },
+    {
+        "tweet_id": "1594562399096705024",
+        "date": "Mon Nov 21 05:24:36 +0000 2022",
+        "user_id": 1405964075360792584,
+        "type": "#doves",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Westzipfel-City"
+    },
+    {
+        "tweet_id": "1594538655561011200",
+        "date": "Mon Nov 21 03:50:15 +0000 2022",
+        "user_id": 1074013381387018240,
+        "type": "#doves",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Maryland, USA"
+    },
+    {
+        "tweet_id": "1594499482691203072",
+        "date": "Mon Nov 21 01:14:35 +0000 2022",
+        "user_id": 827255668444782592,
+        "type": "#doves",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Maryland, USA"
+    },
+    {
+        "tweet_id": "1594440424231518208",
+        "date": "Sun Nov 20 21:19:55 +0000 2022",
+        "user_id": 4858461027,
+        "type": "#doves",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Orange City, FL"
+    },
+    {
+        "tweet_id": "1594389278758666240",
+        "date": "Sun Nov 20 17:56:41 +0000 2022",
+        "user_id": 24271667,
+        "type": "#doves",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Los Angeles"
+    },
+    {
+        "tweet_id": "1594367567161958402",
+        "date": "Sun Nov 20 16:30:24 +0000 2022",
+        "user_id": 15699801,
+        "type": "#doves",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Scottish Borders"
+    },
+    {
+        "tweet_id": "1594304691269414913",
+        "date": "Sun Nov 20 12:20:33 +0000 2022",
+        "user_id": 153701624,
+        "type": "#doves",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Nova Scotia"
+    },
+    {
+        "tweet_id": "1594300671246729216",
+        "date": "Sun Nov 20 12:04:35 +0000 2022",
+        "user_id": 1443655977056747522,
+        "type": "#doves",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Westzipfel-City"
+    },
+    {
+        "tweet_id": "1594292730431037443",
+        "date": "Sun Nov 20 11:33:02 +0000 2022",
+        "user_id": 325874529,
+        "type": "#doves",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\u0130stanbul"
+    },
+    {
+        "tweet_id": "1594004105529544704",
+        "date": "Sat Nov 19 16:26:08 +0000 2022",
+        "user_id": 1481395222512865282,
+        "type": "#doves",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "New England"
+    },
+    {
+        "tweet_id": "1593972783197085696",
+        "date": "Sat Nov 19 14:21:40 +0000 2022",
+        "user_id": 40450439,
+        "type": "#doves",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Naperville IL"
+    },
+    {
+        "tweet_id": "1593773073576116228",
+        "date": "Sat Nov 19 01:08:06 +0000 2022",
+        "user_id": 1632876169,
+        "type": "#doves",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Breckenridge Quebec"
+    },
+    {
+        "tweet_id": "1593716313846947840",
+        "date": "Fri Nov 18 21:22:33 +0000 2022",
+        "user_id": 87180118,
+        "type": "#doves",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Columbus, Ga"
+    },
+    {
+        "tweet_id": "1593680819108941824",
+        "date": "Fri Nov 18 19:01:31 +0000 2022",
+        "user_id": 827255668444782592,
+        "type": "#doves",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Maryland, USA"
+    },
+    {
+        "tweet_id": "1593664211711938567",
+        "date": "Fri Nov 18 17:55:31 +0000 2022",
+        "user_id": 827255668444782592,
+        "type": "#doves",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Maryland, USA"
+    },
+    {
+        "tweet_id": "1593664173828804610",
+        "date": "Fri Nov 18 17:55:22 +0000 2022",
+        "user_id": 827255668444782592,
+        "type": "#doves",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Maryland, USA"
+    },
+    {
+        "tweet_id": "1593650232994459649",
+        "date": "Fri Nov 18 16:59:58 +0000 2022",
+        "user_id": 1525230164577136640,
+        "type": "#doves",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1593593146486788097",
+        "date": "Fri Nov 18 13:13:08 +0000 2022",
+        "user_id": 619613269,
+        "type": "#doves",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "wading the Nashwaak"
+    },
+    {
+        "tweet_id": "1593398140400533507",
+        "date": "Fri Nov 18 00:18:15 +0000 2022",
+        "user_id": 36816846,
+        "type": "#doves",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "IG : @polopirata "
+    },
+    {
+        "tweet_id": "1593341988321243136",
+        "date": "Thu Nov 17 20:35:07 +0000 2022",
+        "user_id": 719635548252606465,
+        "type": "#doves",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "the real Vienna, Austria"
+    },
+    {
+        "tweet_id": "1593211750421532678",
+        "date": "Thu Nov 17 11:57:36 +0000 2022",
+        "user_id": 1575598498426236928,
+        "type": "#doves",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Yakama, WA"
+    },
+    {
+        "tweet_id": "1593139128354365440",
+        "date": "Thu Nov 17 07:09:01 +0000 2022",
+        "user_id": 325874529,
+        "type": "#doves",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\u0130stanbul"
+    },
+    {
+        "tweet_id": "1593120718484430854",
+        "date": "Thu Nov 17 05:55:52 +0000 2022",
+        "user_id": 1628779044,
+        "type": "#doves",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Canada"
+    },
+    {
+        "tweet_id": "1594695074046267393",
+        "date": "Mon Nov 21 14:11:48 +0000 2022",
+        "user_id": 1484914440541769739,
+        "type": "#cuckoos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1594632217917263873",
+        "date": "Mon Nov 21 10:02:02 +0000 2022",
+        "user_id": 69484146,
+        "type": "#cuckoos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "New Orleans, LA"
+    },
+    {
+        "tweet_id": "1594521995152330753",
+        "date": "Mon Nov 21 02:44:03 +0000 2022",
+        "user_id": 442307093,
+        "type": "#cuckoos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Hot Springs, Ar"
+    },
+    {
+        "tweet_id": "1594460330868068352",
+        "date": "Sun Nov 20 22:39:01 +0000 2022",
+        "user_id": 1485716165527838723,
+        "type": "#cuckoos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1594428115941560323",
+        "date": "Sun Nov 20 20:31:00 +0000 2022",
+        "user_id": 1472207942032273409,
+        "type": "#cuckoos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1593722931544137728",
+        "date": "Fri Nov 18 21:48:51 +0000 2022",
+        "user_id": 1098528498,
+        "type": "#cuckoos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Risca"
+    },
+    {
+        "tweet_id": "1593711150931263488",
+        "date": "Fri Nov 18 21:02:02 +0000 2022",
+        "user_id": 1098528498,
+        "type": "#cuckoos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Risca"
+    },
+    {
+        "tweet_id": "1593705520917094402",
+        "date": "Fri Nov 18 20:39:40 +0000 2022",
+        "user_id": 1098528498,
+        "type": "#cuckoos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Risca"
+    },
+    {
+        "tweet_id": "1593650413844283393",
+        "date": "Fri Nov 18 17:00:41 +0000 2022",
+        "user_id": 1098528498,
+        "type": "#cuckoos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Risca"
+    },
+    {
+        "tweet_id": "1593326106920230913",
+        "date": "Thu Nov 17 19:32:01 +0000 2022",
+        "user_id": 2504939448,
+        "type": "#cuckoos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Risca"
+    },
+    {
+        "tweet_id": "1592591278247907333",
+        "date": "Tue Nov 15 18:52:04 +0000 2022",
+        "user_id": 2504939448,
+        "type": "#cuckoos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Risca"
+    },
+    {
+        "tweet_id": "1591210206150549504",
+        "date": "Fri Nov 11 23:24:11 +0000 2022",
+        "user_id": 1485716165527838723,
+        "type": "#cuckoos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1591184800786022402",
+        "date": "Fri Nov 11 21:43:13 +0000 2022",
+        "user_id": 1098528498,
+        "type": "#cuckoos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Risca"
+    },
+    {
+        "tweet_id": "1591174032720035840",
+        "date": "Fri Nov 11 21:00:26 +0000 2022",
+        "user_id": 1472207942032273409,
+        "type": "#cuckoos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1591157057733787648",
+        "date": "Fri Nov 11 19:52:59 +0000 2022",
+        "user_id": 1098528498,
+        "type": "#cuckoos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Risca"
+    },
+    {
+        "tweet_id": "1591008343623340032",
+        "date": "Fri Nov 11 10:02:03 +0000 2022",
+        "user_id": 69484146,
+        "type": "#cuckoos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "New Orleans, LA"
+    },
+    {
+        "tweet_id": "1590958334538121222",
+        "date": "Fri Nov 11 06:43:20 +0000 2022",
+        "user_id": 2504939448,
+        "type": "#cuckoos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Risca"
+    },
+    {
+        "tweet_id": "1590795013151199236",
+        "date": "Thu Nov 10 19:54:21 +0000 2022",
+        "user_id": 3035596727,
+        "type": "#cuckoos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "CSE, Ystrad Mynach, CF82 7EP"
+    },
+    {
+        "tweet_id": "1590793075940798464",
+        "date": "Thu Nov 10 19:46:39 +0000 2022",
+        "user_id": 1098528498,
+        "type": "#cuckoos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Risca"
+    },
+    {
+        "tweet_id": "1590792215668101121",
+        "date": "Thu Nov 10 19:43:14 +0000 2022",
+        "user_id": 1098528498,
+        "type": "#cuckoos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Risca"
+    },
+    {
+        "tweet_id": "1590460648328433666",
+        "date": "Wed Nov 09 21:45:42 +0000 2022",
+        "user_id": 1518695665047584768,
+        "type": "#cuckoos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Wales, United Kingdom"
+    },
+    {
+        "tweet_id": "1589879022913482753",
+        "date": "Tue Nov 08 07:14:32 +0000 2022",
+        "user_id": 2504939448,
+        "type": "#cuckoos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Risca"
+    },
+    {
+        "tweet_id": "1589623837247045633",
+        "date": "Mon Nov 07 14:20:31 +0000 2022",
+        "user_id": 296548399,
+        "type": "#cuckoos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Blessed Caribbean"
+    },
+    {
+        "tweet_id": "1588926743531823104",
+        "date": "Sat Nov 05 16:10:31 +0000 2022",
+        "user_id": 1098528498,
+        "type": "#cuckoos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Risca"
+    },
+    {
+        "tweet_id": "1588922155366256641",
+        "date": "Sat Nov 05 15:52:17 +0000 2022",
+        "user_id": 1098528498,
+        "type": "#cuckoos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Risca"
+    },
+    {
+        "tweet_id": "1588918029412610048",
+        "date": "Sat Nov 05 15:35:53 +0000 2022",
+        "user_id": 1098528498,
+        "type": "#cuckoos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Risca"
+    },
+    {
+        "tweet_id": "1588915068422365184",
+        "date": "Sat Nov 05 15:24:07 +0000 2022",
+        "user_id": 1098528498,
+        "type": "#cuckoos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Risca"
+    },
+    {
+        "tweet_id": "1588910420646993924",
+        "date": "Sat Nov 05 15:05:39 +0000 2022",
+        "user_id": 1098528498,
+        "type": "#cuckoos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Risca"
+    },
+    {
+        "tweet_id": "1588905199900717058",
+        "date": "Sat Nov 05 14:44:54 +0000 2022",
+        "user_id": 1098528498,
+        "type": "#cuckoos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Risca"
+    },
+    {
+        "tweet_id": "1588899441054199810",
+        "date": "Sat Nov 05 14:22:01 +0000 2022",
+        "user_id": 1098528498,
+        "type": "#cuckoos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Risca"
+    },
+    {
+        "tweet_id": "1588851285507600384",
+        "date": "Sat Nov 05 11:10:40 +0000 2022",
+        "user_id": 1098528498,
+        "type": "#cuckoos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Risca"
+    },
+    {
+        "tweet_id": "1588163471534804992",
+        "date": "Thu Nov 03 13:37:32 +0000 2022",
+        "user_id": 1205529394128805888,
+        "type": "#cuckoos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1588097324420681728",
+        "date": "Thu Nov 03 09:14:42 +0000 2022",
+        "user_id": 60363106,
+        "type": "#cuckoos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "TOOJAYS Park, PE7 3NA"
+    },
+    {
+        "tweet_id": "1587496308876754949",
+        "date": "Tue Nov 01 17:26:28 +0000 2022",
+        "user_id": 1098528498,
+        "type": "#cuckoos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Risca"
+    },
+    {
+        "tweet_id": "1586458106539937792",
+        "date": "Sat Oct 29 20:41:02 +0000 2022",
+        "user_id": 1350117009413947395,
+        "type": "#cuckoos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1586406356797558790",
+        "date": "Sat Oct 29 17:15:24 +0000 2022",
+        "user_id": 1098528498,
+        "type": "#cuckoos",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Risca"
+    },
+    {
+        "tweet_id": "1588191783686705155",
+        "date": "Thu Nov 03 15:30:03 +0000 2022",
+        "user_id": 1021827725709979651,
+        "type": "#flycatchers",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1587506773816233984",
+        "date": "Tue Nov 01 18:08:03 +0000 2022",
+        "user_id": 1401748988,
+        "type": "#flycatchers",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Kidderminster UK"
+    },
+    {
+        "tweet_id": "1587033206917832706",
+        "date": "Mon Oct 31 10:46:16 +0000 2022",
+        "user_id": 253323014,
+        "type": "#flycatchers",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Netherlands"
+    },
+    {
+        "tweet_id": "1584479082087346176",
+        "date": "Mon Oct 24 09:37:06 +0000 2022",
+        "user_id": 1037730211943591942,
+        "type": "#flycatchers",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Germany"
+    },
+    {
+        "tweet_id": "1594943726581084160",
+        "date": "Tue Nov 22 06:39:51 +0000 2022",
+        "user_id": 515591382,
+        "type": "#thrushes",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Earth"
+    },
+    {
+        "tweet_id": "1588599950656831488",
+        "date": "Fri Nov 04 18:31:57 +0000 2022",
+        "user_id": 1418283370312777738,
+        "type": "#thrushes",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Inverness, Scotland"
+    },
+    {
+        "tweet_id": "1588454868003753984",
+        "date": "Fri Nov 04 08:55:27 +0000 2022",
+        "user_id": 3642189682,
+        "type": "#thrushes",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Valencia, Comunidad Valenciana"
+    },
+    {
+        "tweet_id": "1587502527490277378",
+        "date": "Tue Nov 01 17:51:11 +0000 2022",
+        "user_id": 3642189682,
+        "type": "#thrushes",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Valencia, Comunidad Valenciana"
+    },
+    {
+        "tweet_id": "1595323346048131073",
+        "date": "Wed Nov 23 07:48:20 +0000 2022",
+        "user_id": 1479800838667358215,
+        "type": "#pelicans",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Fort Lauderdale, FL"
+    },
+    {
+        "tweet_id": "1595308680005980161",
+        "date": "Wed Nov 23 06:50:03 +0000 2022",
+        "user_id": 1479800838667358215,
+        "type": "#pelicans",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Fort Lauderdale, FL"
+    },
+    {
+        "tweet_id": "1595292016782766080",
+        "date": "Wed Nov 23 05:43:50 +0000 2022",
+        "user_id": 1517269047213178881,
+        "type": "#pelicans",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1595269163152351232",
+        "date": "Wed Nov 23 04:13:01 +0000 2022",
+        "user_id": 2437630340,
+        "type": "#pelicans",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "SEC Country"
+    },
+    {
+        "tweet_id": "1595254217614462977",
+        "date": "Wed Nov 23 03:13:38 +0000 2022",
+        "user_id": 989299444263858176,
+        "type": "#pelicans",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Philadelphia, PA"
+    },
+    {
+        "tweet_id": "1595235071463940097",
+        "date": "Wed Nov 23 01:57:33 +0000 2022",
+        "user_id": 1479800838667358215,
+        "type": "#pelicans",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Fort Lauderdale, FL"
+    },
+    {
+        "tweet_id": "1595234109688774656",
+        "date": "Wed Nov 23 01:53:44 +0000 2022",
+        "user_id": 1485953652569387009,
+        "type": "#pelicans",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1595228352389914624",
+        "date": "Wed Nov 23 01:30:51 +0000 2022",
+        "user_id": 18785182,
+        "type": "#pelicans",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "San Antonio/New York City"
+    },
+    {
+        "tweet_id": "1595225382323900416",
+        "date": "Wed Nov 23 01:19:03 +0000 2022",
+        "user_id": 1073812246537609216,
+        "type": "#pelicans",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1595225264090488833",
+        "date": "Wed Nov 23 01:18:35 +0000 2022",
+        "user_id": 889181092019830784,
+        "type": "#pelicans",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "USA"
+    },
+    {
+        "tweet_id": "1595224588945920001",
+        "date": "Wed Nov 23 01:15:54 +0000 2022",
+        "user_id": 1083767803453222912,
+        "type": "#pelicans",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "NBC"
+    },
+    {
+        "tweet_id": "1595208003493367808",
+        "date": "Wed Nov 23 00:10:00 +0000 2022",
+        "user_id": 1455220649622970372,
+        "type": "#pelicans",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Caracas, Venezuela"
+    },
+    {
+        "tweet_id": "1595205769145864193",
+        "date": "Wed Nov 23 00:01:07 +0000 2022",
+        "user_id": 18785182,
+        "type": "#pelicans",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "San Antonio/New York City"
+    },
+    {
+        "tweet_id": "1595195564056100866",
+        "date": "Tue Nov 22 23:20:34 +0000 2022",
+        "user_id": 1479800838667358215,
+        "type": "#pelicans",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Fort Lauderdale, FL"
+    },
+    {
+        "tweet_id": "1595193089076989953",
+        "date": "Tue Nov 22 23:10:44 +0000 2022",
+        "user_id": 844270018812493824,
+        "type": "#pelicans",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Seattle, WA"
+    },
+    {
+        "tweet_id": "1595187900081377281",
+        "date": "Tue Nov 22 22:50:07 +0000 2022",
+        "user_id": 24903350,
+        "type": "#pelicans",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "New Orleans"
+    },
+    {
+        "tweet_id": "1595180223959429120",
+        "date": "Tue Nov 22 22:19:37 +0000 2022",
+        "user_id": 37090928,
+        "type": "#pelicans",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Los Angeles"
+    },
+    {
+        "tweet_id": "1595179339657756674",
+        "date": "Tue Nov 22 22:16:06 +0000 2022",
+        "user_id": 301625560,
+        "type": "#pelicans",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1595178992826449921",
+        "date": "Tue Nov 22 22:14:43 +0000 2022",
+        "user_id": 114562775,
+        "type": "#pelicans",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Maracay,Edo Aragua"
+    },
+    {
+        "tweet_id": "1595172782639222785",
+        "date": "Tue Nov 22 21:50:02 +0000 2022",
+        "user_id": 115285160,
+        "type": "#pelicans",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "New Orleans Louisiana"
+    },
+    {
+        "tweet_id": "1595164004103905281",
+        "date": "Tue Nov 22 21:15:09 +0000 2022",
+        "user_id": 574930903,
+        "type": "#pelicans",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "New Orleans, Louisiana "
+    },
+    {
+        "tweet_id": "1595314086837096449",
+        "date": "Wed Nov 23 07:11:32 +0000 2022",
+        "user_id": 619620603,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Shoreline, WA"
+    },
+    {
+        "tweet_id": "1595178205899636738",
+        "date": "Tue Nov 22 22:11:35 +0000 2022",
+        "user_id": 1289957759132237824,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Cary, NC"
+    },
+    {
+        "tweet_id": "1594816614846767104",
+        "date": "Mon Nov 21 22:14:45 +0000 2022",
+        "user_id": 1289957759132237824,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Cary, NC"
+    },
+    {
+        "tweet_id": "1594718039857053696",
+        "date": "Mon Nov 21 15:43:03 +0000 2022",
+        "user_id": 3349634649,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1594461246312415232",
+        "date": "Sun Nov 20 22:42:39 +0000 2022",
+        "user_id": 1289957759132237824,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Cary, NC"
+    },
+    {
+        "tweet_id": "1594142625988222978",
+        "date": "Sun Nov 20 01:36:34 +0000 2022",
+        "user_id": 1289957759132237824,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Cary, NC"
+    },
+    {
+        "tweet_id": "1593971633517199363",
+        "date": "Sat Nov 19 14:17:06 +0000 2022",
+        "user_id": 1462985384,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Padiham FC, Ruby Civil Arena, BB12 8LE"
+    },
+    {
+        "tweet_id": "1593798873939673089",
+        "date": "Sat Nov 19 02:50:37 +0000 2022",
+        "user_id": 1578129657790169111,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Philly// the trenches \ud83d\udccd"
+    },
+    {
+        "tweet_id": "1593732389016330240",
+        "date": "Fri Nov 18 22:26:26 +0000 2022",
+        "user_id": 1289957759132237824,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Cary, NC"
+    },
+    {
+        "tweet_id": "1593368523429924867",
+        "date": "Thu Nov 17 22:20:33 +0000 2022",
+        "user_id": 1289957759132237824,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Cary, NC"
+    },
+    {
+        "tweet_id": "1593179386454368256",
+        "date": "Thu Nov 17 09:49:00 +0000 2022",
+        "user_id": 3063879305,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Poland"
+    },
+    {
+        "tweet_id": "1592545686524137472",
+        "date": "Tue Nov 15 15:50:54 +0000 2022",
+        "user_id": 1581137892746792961,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1592495457300873216",
+        "date": "Tue Nov 15 12:31:18 +0000 2022",
+        "user_id": 1031310301516455936,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "London"
+    },
+    {
+        "tweet_id": "1591901888332828672",
+        "date": "Sun Nov 13 21:12:40 +0000 2022",
+        "user_id": 1289957759132237824,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Cary, NC"
+    },
+    {
+        "tweet_id": "1591714601284296704",
+        "date": "Sun Nov 13 08:48:28 +0000 2022",
+        "user_id": 1628483670,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "New Delhi, India"
+    },
+    {
+        "tweet_id": "1591540667804946433",
+        "date": "Sat Nov 12 21:17:19 +0000 2022",
+        "user_id": 1289957759132237824,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Cary, NC"
+    },
+    {
+        "tweet_id": "1591417089222492164",
+        "date": "Sat Nov 12 13:06:15 +0000 2022",
+        "user_id": 1462985384,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Padiham FC, Ruby Civil Arena, BB12 8LE"
+    },
+    {
+        "tweet_id": "1591049201680801792",
+        "date": "Fri Nov 11 12:44:24 +0000 2022",
+        "user_id": 706721419,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Covehithe/Benacre, Suffolk, UK"
+    },
+    {
+        "tweet_id": "1590993561616797696",
+        "date": "Fri Nov 11 09:03:18 +0000 2022",
+        "user_id": 269984284,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Francistown , Botswana"
+    },
+    {
+        "tweet_id": "1590263747893161984",
+        "date": "Wed Nov 09 08:43:17 +0000 2022",
+        "user_id": 3029613650,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Italy"
+    },
+    {
+        "tweet_id": "1590049185008848897",
+        "date": "Tue Nov 08 18:30:42 +0000 2022",
+        "user_id": 14052086,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "San Francisco Bay Area"
+    },
+    {
+        "tweet_id": "1589992637297463296",
+        "date": "Tue Nov 08 14:46:00 +0000 2022",
+        "user_id": 918754495,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "London, England"
+    },
+    {
+        "tweet_id": "1589970252800360454",
+        "date": "Tue Nov 08 13:17:03 +0000 2022",
+        "user_id": 1511612928809598977,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "California, USA"
+    },
+    {
+        "tweet_id": "1589303680427524097",
+        "date": "Sun Nov 06 17:08:19 +0000 2022",
+        "user_id": 1511612928809598977,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "California, USA"
+    },
+    {
+        "tweet_id": "1589221697642991619",
+        "date": "Sun Nov 06 11:42:33 +0000 2022",
+        "user_id": 125245917,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Nairobi, Kenya"
+    },
+    {
+        "tweet_id": "1589079113528381441",
+        "date": "Sun Nov 06 02:15:58 +0000 2022",
+        "user_id": 1166211593136328704,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Da Nang - Viet Nam "
+    },
+    {
+        "tweet_id": "1588901450242924544",
+        "date": "Sat Nov 05 14:30:00 +0000 2022",
+        "user_id": 1311734330302124036,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Polska"
+    },
+    {
+        "tweet_id": "1588896089679097856",
+        "date": "Sat Nov 05 14:08:42 +0000 2022",
+        "user_id": 1462985384,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Padiham FC, Ruby Civil Arena, BB12 8LE"
+    },
+    {
+        "tweet_id": "1588435921254301697",
+        "date": "Fri Nov 04 07:40:09 +0000 2022",
+        "user_id": 2642102178,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Australia"
+    },
+    {
+        "tweet_id": "1588414644640968704",
+        "date": "Fri Nov 04 06:15:37 +0000 2022",
+        "user_id": 497731209,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\u041a\u0438\u0435\u0432"
+    },
+    {
+        "tweet_id": "1587556225901907974",
+        "date": "Tue Nov 01 21:24:34 +0000 2022",
+        "user_id": 1452889725715505155,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "EARTH "
+    },
+    {
+        "tweet_id": "1587396766630301696",
+        "date": "Tue Nov 01 10:50:56 +0000 2022",
+        "user_id": 31561072,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1587095034712784899",
+        "date": "Mon Oct 31 14:51:57 +0000 2022",
+        "user_id": 497731209,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\u041a\u0438\u0435\u0432"
+    },
+    {
+        "tweet_id": "1587092507900448769",
+        "date": "Mon Oct 31 14:41:55 +0000 2022",
+        "user_id": 497731209,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\u041a\u0438\u0435\u0432"
+    },
+    {
+        "tweet_id": "1587028920699965441",
+        "date": "Mon Oct 31 10:29:14 +0000 2022",
+        "user_id": 497731209,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\u041a\u0438\u0435\u0432"
+    },
+    {
+        "tweet_id": "1587028123169837056",
+        "date": "Mon Oct 31 10:26:04 +0000 2022",
+        "user_id": 497731209,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\u041a\u0438\u0435\u0432"
+    },
+    {
+        "tweet_id": "1587027958845374465",
+        "date": "Mon Oct 31 10:25:25 +0000 2022",
+        "user_id": 497731209,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\u041a\u0438\u0435\u0432"
+    },
+    {
+        "tweet_id": "1587024525828440064",
+        "date": "Mon Oct 31 10:11:47 +0000 2022",
+        "user_id": 497731209,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\u041a\u0438\u0435\u0432"
+    },
+    {
+        "tweet_id": "1586458001329868802",
+        "date": "Sat Oct 29 20:40:37 +0000 2022",
+        "user_id": 1289957759132237824,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Cary, NC"
+    },
+    {
+        "tweet_id": "1586343746492239873",
+        "date": "Sat Oct 29 13:06:36 +0000 2022",
+        "user_id": 1462985384,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Padiham FC, Ruby Civil Arena, BB12 8LE"
+    },
+    {
+        "tweet_id": "1586330788517531648",
+        "date": "Sat Oct 29 12:15:07 +0000 2022",
+        "user_id": 384183262,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": " Shropshire "
+    },
+    {
+        "tweet_id": "1586105895792025602",
+        "date": "Fri Oct 28 21:21:28 +0000 2022",
+        "user_id": 1289957759132237824,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Cary, NC"
+    },
+    {
+        "tweet_id": "1586041656335376384",
+        "date": "Fri Oct 28 17:06:12 +0000 2022",
+        "user_id": 1586014273729429505,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Bia\u0142ystok"
+    },
+    {
+        "tweet_id": "1585744368949936128",
+        "date": "Thu Oct 27 21:24:53 +0000 2022",
+        "user_id": 1289957759132237824,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Cary, NC"
+    },
+    {
+        "tweet_id": "1585692817837391917",
+        "date": "Thu Oct 27 18:00:03 +0000 2022",
+        "user_id": 1476637255750066192,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Los Angeles"
+    },
+    {
+        "tweet_id": "1585333282501115904",
+        "date": "Wed Oct 26 18:11:23 +0000 2022",
+        "user_id": 1462985384,
+        "type": "#storks",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Padiham FC, Ruby Civil Arena, BB12 8LE"
+    },
+    {
+        "tweet_id": "1595179391742578689",
+        "date": "Tue Nov 22 22:16:18 +0000 2022",
+        "user_id": 31482963,
+        "type": "#swifts",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Stangmore Park, Dungannon"
+    },
+    {
+        "tweet_id": "1595037471494082561",
+        "date": "Tue Nov 22 12:52:22 +0000 2022",
+        "user_id": 268972985,
+        "type": "#swifts",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Maldon, Essex"
+    },
+    {
+        "tweet_id": "1594928981597630464",
+        "date": "Tue Nov 22 05:41:16 +0000 2022",
+        "user_id": 1089710815597547520,
+        "type": "#swifts",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "United States"
+    },
+    {
+        "tweet_id": "1594614384382414848",
+        "date": "Mon Nov 21 08:51:10 +0000 2022",
+        "user_id": 1381976389,
+        "type": "#swifts",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Perthshire, Dundee & Angus"
+    },
+    {
+        "tweet_id": "1594288160493948928",
+        "date": "Sun Nov 20 11:14:52 +0000 2022",
+        "user_id": 268972985,
+        "type": "#swifts",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Maldon, Essex"
+    },
+    {
+        "tweet_id": "1594050174879682560",
+        "date": "Sat Nov 19 19:29:12 +0000 2022",
+        "user_id": 3195476019,
+        "type": "#swifts",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Heybridge, England"
+    },
+    {
+        "tweet_id": "1594037706060963846",
+        "date": "Sat Nov 19 18:39:39 +0000 2022",
+        "user_id": 3195476019,
+        "type": "#swifts",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Heybridge, England"
+    },
+    {
+        "tweet_id": "1593973308667711488",
+        "date": "Sat Nov 19 14:23:46 +0000 2022",
+        "user_id": 3195476019,
+        "type": "#swifts",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Heybridge, England"
+    },
+    {
+        "tweet_id": "1593960858010386434",
+        "date": "Sat Nov 19 13:34:17 +0000 2022",
+        "user_id": 519930215,
+        "type": "#swifts",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "UK"
+    },
+    {
+        "tweet_id": "1593951103753887745",
+        "date": "Sat Nov 19 12:55:31 +0000 2022",
+        "user_id": 823917230526255104,
+        "type": "#swifts",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Angus, Scotland"
+    },
+    {
+        "tweet_id": "1593913831557763072",
+        "date": "Sat Nov 19 10:27:25 +0000 2022",
+        "user_id": 268972985,
+        "type": "#swifts",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Maldon, Essex"
+    },
+    {
+        "tweet_id": "1593764249888849922",
+        "date": "Sat Nov 19 00:33:02 +0000 2022",
+        "user_id": 1228594219989647360,
+        "type": "#swifts",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1593398087841562624",
+        "date": "Fri Nov 18 00:18:02 +0000 2022",
+        "user_id": 1228594219989647360,
+        "type": "#swifts",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1593313750848864257",
+        "date": "Thu Nov 17 18:42:55 +0000 2022",
+        "user_id": 1338757359825530880,
+        "type": "#swifts",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1595329362676457472",
+        "date": "Wed Nov 23 08:12:14 +0000 2022",
+        "user_id": 1505401699137372160,
+        "type": "#swallows",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\ud83d\udc47\u30e4\u30af\u30eb\u30c8\u30b9\u30ef\u30ed\u30fc\u30ba\u307e\u3068\u3081\ud83d\udc47"
+    },
+    {
+        "tweet_id": "1595329277196918784",
+        "date": "Wed Nov 23 08:11:54 +0000 2022",
+        "user_id": 832241984911781888,
+        "type": "#swallows",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\u77f3\u5ddd\u770c\u6cb3\u5317\u90e1\u6d25\u5e61\u753a\u2192\u5927\u962a\u5e02\u6771\u6dc0\u5ddd\u533a\u2192\u5ddd\u5d0e\u5e02\u591a\u6469\u533a\u2192\u7df4\u99ac\u533a"
+    },
+    {
+        "tweet_id": "1595328772181352448",
+        "date": "Wed Nov 23 08:09:53 +0000 2022",
+        "user_id": 1432300175192584192,
+        "type": "#swallows",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "@suwa2021"
+    },
+    {
+        "tweet_id": "1595326425971949569",
+        "date": "Wed Nov 23 08:00:34 +0000 2022",
+        "user_id": 1557796805496414208,
+        "type": "#swallows",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1595325402427576320",
+        "date": "Wed Nov 23 07:56:30 +0000 2022",
+        "user_id": 1379800436668997635,
+        "type": "#swallows",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\u307f\u305a\u304c\u3081\u5ea7\u2652A\u578b   "
+    },
+    {
+        "tweet_id": "1595159856847400961",
+        "date": "Tue Nov 22 20:58:41 +0000 2022",
+        "user_id": 3819059969,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Clarence-Rockland, Ontario"
+    },
+    {
+        "tweet_id": "1595078006086639616",
+        "date": "Tue Nov 22 15:33:26 +0000 2022",
+        "user_id": 1026149076818186241,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1594980850495537153",
+        "date": "Tue Nov 22 09:07:22 +0000 2022",
+        "user_id": 203061590,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Manchester"
+    },
+    {
+        "tweet_id": "1594968217361190912",
+        "date": "Tue Nov 22 08:17:10 +0000 2022",
+        "user_id": 1318629100131700744,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "And Daily Lives of The Unibes"
+    },
+    {
+        "tweet_id": "1594697863514054656",
+        "date": "Mon Nov 21 14:22:53 +0000 2022",
+        "user_id": 1295101945020063744,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1594678631355260929",
+        "date": "Mon Nov 21 13:06:28 +0000 2022",
+        "user_id": 1276805480971730944,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1594671565584891909",
+        "date": "Mon Nov 21 12:38:23 +0000 2022",
+        "user_id": 237269845,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1594172022610808833",
+        "date": "Sun Nov 20 03:33:23 +0000 2022",
+        "user_id": 1026149076818186241,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1594097317078237184",
+        "date": "Sat Nov 19 22:36:31 +0000 2022",
+        "user_id": 736281258737565696,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Hawaii, USA"
+    },
+    {
+        "tweet_id": "1594004101968314369",
+        "date": "Sat Nov 19 16:26:07 +0000 2022",
+        "user_id": 21592148,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Bay Area, California. "
+    },
+    {
+        "tweet_id": "1592888454006046720",
+        "date": "Wed Nov 16 14:32:56 +0000 2022",
+        "user_id": 53373674,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Black Isle, Highland Scotland "
+    },
+    {
+        "tweet_id": "1592887291449868288",
+        "date": "Wed Nov 16 14:28:19 +0000 2022",
+        "user_id": 53373674,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Black Isle, Highland Scotland "
+    },
+    {
+        "tweet_id": "1592876561577160705",
+        "date": "Wed Nov 16 13:45:41 +0000 2022",
+        "user_id": 1308161859158147073,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Cortland, NY"
+    },
+    {
+        "tweet_id": "1592849299591004164",
+        "date": "Wed Nov 16 11:57:21 +0000 2022",
+        "user_id": 3910074315,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "USA"
+    },
+    {
+        "tweet_id": "1592503743849037824",
+        "date": "Tue Nov 15 13:04:14 +0000 2022",
+        "user_id": 3910074315,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "USA"
+    },
+    {
+        "tweet_id": "1592489872480407552",
+        "date": "Tue Nov 15 12:09:07 +0000 2022",
+        "user_id": 1521993804395745280,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1592467771837026304",
+        "date": "Tue Nov 15 10:41:18 +0000 2022",
+        "user_id": 1392908410744709121,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Karachi, Pakistan"
+    },
+    {
+        "tweet_id": "1591734475536629760",
+        "date": "Sun Nov 13 10:07:26 +0000 2022",
+        "user_id": 766590832866713604,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1591226193491001344",
+        "date": "Sat Nov 12 00:27:42 +0000 2022",
+        "user_id": 251200670,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1590971892986421250",
+        "date": "Fri Nov 11 07:37:12 +0000 2022",
+        "user_id": 766590832866713604,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1590963050936692736",
+        "date": "Fri Nov 11 07:02:04 +0000 2022",
+        "user_id": 1579135479898832897,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1590771178033254401",
+        "date": "Thu Nov 10 18:19:38 +0000 2022",
+        "user_id": 30266416,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Half Moon Bay, CA"
+    },
+    {
+        "tweet_id": "1590193553887531010",
+        "date": "Wed Nov 09 04:04:22 +0000 2022",
+        "user_id": 891756128962396160,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\u4eac\u90fd \u4eac\u90fd\u5e02 \u4e2d\u4eac\u533a"
+    },
+    {
+        "tweet_id": "1590142960309796864",
+        "date": "Wed Nov 09 00:43:19 +0000 2022",
+        "user_id": 1552271986780524549,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1589956782986006530",
+        "date": "Tue Nov 08 12:23:31 +0000 2022",
+        "user_id": 1521993804395745280,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1589654001666211842",
+        "date": "Mon Nov 07 16:20:22 +0000 2022",
+        "user_id": 44413866,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": " west PA to Glasgow Scotland"
+    },
+    {
+        "tweet_id": "1589579624136470528",
+        "date": "Mon Nov 07 11:24:50 +0000 2022",
+        "user_id": 424151759,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Redcar"
+    },
+    {
+        "tweet_id": "1589472685494767616",
+        "date": "Mon Nov 07 04:19:53 +0000 2022",
+        "user_id": 1518775725561679872,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Tennessee, USA"
+    },
+    {
+        "tweet_id": "1589472451150635008",
+        "date": "Mon Nov 07 04:18:57 +0000 2022",
+        "user_id": 1518775725561679872,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Tennessee, USA"
+    },
+    {
+        "tweet_id": "1589271896062836739",
+        "date": "Sun Nov 06 15:02:01 +0000 2022",
+        "user_id": 27037223,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Bury, UK"
+    },
+    {
+        "tweet_id": "1589209482894381057",
+        "date": "Sun Nov 06 10:54:01 +0000 2022",
+        "user_id": 1551104454564679680,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Bhavnagar, India"
+    },
+    {
+        "tweet_id": "1589098649443000320",
+        "date": "Sun Nov 06 03:33:36 +0000 2022",
+        "user_id": 1489016337217163264,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Brisbane, Queensland"
+    },
+    {
+        "tweet_id": "1588746625224429569",
+        "date": "Sat Nov 05 04:14:47 +0000 2022",
+        "user_id": 1518775725561679872,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Tennessee, USA"
+    },
+    {
+        "tweet_id": "1588746472157507585",
+        "date": "Sat Nov 05 04:14:11 +0000 2022",
+        "user_id": 1518775725561679872,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Tennessee, USA"
+    },
+    {
+        "tweet_id": "1588640451422294016",
+        "date": "Fri Nov 04 21:12:53 +0000 2022",
+        "user_id": 1579135479898832897,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1588281362934796288",
+        "date": "Thu Nov 03 21:26:00 +0000 2022",
+        "user_id": 793353470128427008,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Chicago, IL"
+    },
+    {
+        "tweet_id": "1588222470242201602",
+        "date": "Thu Nov 03 17:31:59 +0000 2022",
+        "user_id": 1579135479898832897,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1587847440199188481",
+        "date": "Wed Nov 02 16:41:45 +0000 2022",
+        "user_id": 1062793209028505600,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Ireland"
+    },
+    {
+        "tweet_id": "1587579467123535872",
+        "date": "Tue Nov 01 22:56:55 +0000 2022",
+        "user_id": 1432278917650522119,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Bangalore"
+    },
+    {
+        "tweet_id": "1587481881393741825",
+        "date": "Tue Nov 01 16:29:09 +0000 2022",
+        "user_id": 1281010797892812802,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Beavercreek, Ohio"
+    },
+    {
+        "tweet_id": "1586836865730183174",
+        "date": "Sun Oct 30 21:46:05 +0000 2022",
+        "user_id": 891756128962396160,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\u4eac\u90fd \u4eac\u90fd\u5e02 \u4e2d\u4eac\u533a"
+    },
+    {
+        "tweet_id": "1586742222031986690",
+        "date": "Sun Oct 30 15:30:00 +0000 2022",
+        "user_id": 511279191,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Vietnam"
+    },
+    {
+        "tweet_id": "1586736634829078531",
+        "date": "Sun Oct 30 15:07:48 +0000 2022",
+        "user_id": 3145611190,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Republic of Mozambique"
+    },
+    {
+        "tweet_id": "1586704228742987779",
+        "date": "Sun Oct 30 12:59:02 +0000 2022",
+        "user_id": 1383613279805730816,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1586373576512266240",
+        "date": "Sat Oct 29 15:05:08 +0000 2022",
+        "user_id": 741296598672670720,
+        "type": "#finches",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "United Kingdom"
+    },
+    {
+        "tweet_id": "1595326291158663170",
+        "date": "Wed Nov 23 08:00:02 +0000 2022",
+        "user_id": 1432956403023446017,
+        "type": "#waterbirds",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Danzhou, Hainan"
+    },
+    {
+        "tweet_id": "1595238391532118028",
+        "date": "Wed Nov 23 02:10:45 +0000 2022",
+        "user_id": 1035582849724940288,
+        "type": "#waterbirds",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "55.6637351,-93.4573223"
+    },
+    {
+        "tweet_id": "1595182019147071488",
+        "date": "Tue Nov 22 22:26:45 +0000 2022",
+        "user_id": 490232734,
+        "type": "#waterbirds",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Australia"
+    },
+    {
+        "tweet_id": "1594931556917063681",
+        "date": "Tue Nov 22 05:51:30 +0000 2022",
+        "user_id": 490232734,
+        "type": "#waterbirds",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Australia"
+    },
+    {
+        "tweet_id": "1594907509672013826",
+        "date": "Tue Nov 22 04:15:56 +0000 2022",
+        "user_id": 1226078320325844993,
+        "type": "#waterbirds",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1594827366664400896",
+        "date": "Mon Nov 21 22:57:29 +0000 2022",
+        "user_id": 1306341434,
+        "type": "#waterbirds",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "East Coast USA"
+    },
+    {
+        "tweet_id": "1594723009691983873",
+        "date": "Mon Nov 21 16:02:48 +0000 2022",
+        "user_id": 1451267970425053199,
+        "type": "#waterbirds",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1594383641509085184",
+        "date": "Sun Nov 20 17:34:17 +0000 2022",
+        "user_id": 629657328,
+        "type": "#waterbirds",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1594002726589181952",
+        "date": "Sat Nov 19 16:20:39 +0000 2022",
+        "user_id": 1306341434,
+        "type": "#waterbirds",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "East Coast USA"
+    },
+    {
+        "tweet_id": "1593959684070903810",
+        "date": "Sat Nov 19 13:29:37 +0000 2022",
+        "user_id": 1585783807449481216,
+        "type": "#waterbirds",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "London, England"
+    },
+    {
+        "tweet_id": "1593922766717304833",
+        "date": "Sat Nov 19 11:02:55 +0000 2022",
+        "user_id": 971165327143956480,
+        "type": "#waterbirds",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "East Atlantic Flyway"
+    },
+    {
+        "tweet_id": "1593679258009862144",
+        "date": "Fri Nov 18 18:55:18 +0000 2022",
+        "user_id": 959829405584494592,
+        "type": "#waterbirds",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1593627591260311552",
+        "date": "Fri Nov 18 15:30:00 +0000 2022",
+        "user_id": 1451267970425053199,
+        "type": "#waterbirds",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1593443832837812225",
+        "date": "Fri Nov 18 03:19:49 +0000 2022",
+        "user_id": 3239040782,
+        "type": "#waterbirds",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1593443727703277568",
+        "date": "Fri Nov 18 03:19:24 +0000 2022",
+        "user_id": 260253386,
+        "type": "#waterbirds",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "New Delhi"
+    },
+    {
+        "tweet_id": "1593245222850670594",
+        "date": "Thu Nov 17 14:10:36 +0000 2022",
+        "user_id": 21191528,
+        "type": "#waterbirds",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Hertfordshire"
+    },
+    {
+        "tweet_id": "1593220720536215554",
+        "date": "Thu Nov 17 12:33:15 +0000 2022",
+        "user_id": 1373302836,
+        "type": "#waterbirds",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Lawrence Township, New Jersey"
+    },
+    {
+        "tweet_id": "1592241546472349696",
+        "date": "Mon Nov 14 19:42:21 +0000 2022",
+        "user_id": 1451267970425053199,
+        "type": "#waterbirds",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1592235401439506434",
+        "date": "Mon Nov 14 19:17:56 +0000 2022",
+        "user_id": 4214442682,
+        "type": "#waterbirds",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "North Carolina, USA"
+    },
+    {
+        "tweet_id": "1592090842504007680",
+        "date": "Mon Nov 14 09:43:31 +0000 2022",
+        "user_id": 201287712,
+        "type": "#waterbirds",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1591732686778949633",
+        "date": "Sun Nov 13 10:00:20 +0000 2022",
+        "user_id": 22016886,
+        "type": "#waterbirds",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1591729154915028992",
+        "date": "Sun Nov 13 09:46:18 +0000 2022",
+        "user_id": 886864190,
+        "type": "#waterbirds",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "7 Dials, Covent Garden, London"
+    },
+    {
+        "tweet_id": "1591407257824428032",
+        "date": "Sat Nov 12 12:27:11 +0000 2022",
+        "user_id": 1320365866068967424,
+        "type": "#waterbirds",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Kampala, Uganda"
+    },
+    {
+        "tweet_id": "1591358891190804480",
+        "date": "Sat Nov 12 09:15:00 +0000 2022",
+        "user_id": 1252175128408064001,
+        "type": "#waterbirds",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Mostly on \ud83d\ude82 b/w Bonn & Berlin"
+    },
+    {
+        "tweet_id": "1590811541976354816",
+        "date": "Thu Nov 10 21:00:02 +0000 2022",
+        "user_id": 1252175128408064001,
+        "type": "#waterbirds",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Mostly on \ud83d\ude82 b/w Bonn & Berlin"
+    },
+    {
+        "tweet_id": "1590788983499259905",
+        "date": "Thu Nov 10 19:30:23 +0000 2022",
+        "user_id": 26701241,
+        "type": "#waterbirds",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Turkey and UK"
+    },
+    {
+        "tweet_id": "1590681220660490241",
+        "date": "Thu Nov 10 12:22:11 +0000 2022",
+        "user_id": 1373302836,
+        "type": "#waterbirds",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Lawrence Township, New Jersey"
+    },
+    {
+        "tweet_id": "1594943726581084160",
+        "date": "Tue Nov 22 06:39:51 +0000 2022",
+        "user_id": 515591382,
+        "type": "#thrushes",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Earth"
+    },
+    {
+        "tweet_id": "1588599950656831488",
+        "date": "Fri Nov 04 18:31:57 +0000 2022",
+        "user_id": 1418283370312777738,
+        "type": "#thrushes",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Inverness, Scotland"
+    },
+    {
+        "tweet_id": "1588454868003753984",
+        "date": "Fri Nov 04 08:55:27 +0000 2022",
+        "user_id": 3642189682,
+        "type": "#thrushes",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Valencia, Comunidad Valenciana"
+    },
+    {
+        "tweet_id": "1587502527490277378",
+        "date": "Tue Nov 01 17:51:11 +0000 2022",
+        "user_id": 3642189682,
+        "type": "#thrushes",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Valencia, Comunidad Valenciana"
+    },
+    {
+        "tweet_id": "1594515648599785475",
+        "date": "Mon Nov 21 02:18:49 +0000 2022",
+        "user_id": 264382869,
+        "type": "#warblers",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1593480611880050689",
+        "date": "Fri Nov 18 05:45:57 +0000 2022",
+        "user_id": 216146837,
+        "type": "#warblers",
+        "geo": null,
+        "coordinates": null,
+        "user_location": " \u6771\u4eac\u65e5\u672c "
+    },
+    {
+        "tweet_id": "1591866491519238144",
+        "date": "Sun Nov 13 18:52:01 +0000 2022",
+        "user_id": 2305158031,
+        "type": "#warblers",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Madison, WI"
+    },
+    {
+        "tweet_id": "1591754966863122439",
+        "date": "Sun Nov 13 11:28:52 +0000 2022",
+        "user_id": 1586296054382829574,
+        "type": "#warblers",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1591652262241501185",
+        "date": "Sun Nov 13 04:40:45 +0000 2022",
+        "user_id": 906276319,
+        "type": "#warblers",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1591497887338450947",
+        "date": "Sat Nov 12 18:27:19 +0000 2022",
+        "user_id": 1082457086913597440,
+        "type": "#warblers",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Manat\u00ed, Puerto Rico"
+    },
+    {
+        "tweet_id": "1591428596261916673",
+        "date": "Sat Nov 12 13:51:59 +0000 2022",
+        "user_id": 2305158031,
+        "type": "#warblers",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Madison, WI"
+    },
+    {
+        "tweet_id": "1591127779281580032",
+        "date": "Fri Nov 11 17:56:38 +0000 2022",
+        "user_id": 1547399181983178758,
+        "type": "#warblers",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1590823164665282561",
+        "date": "Thu Nov 10 21:46:13 +0000 2022",
+        "user_id": 921335213053108225,
+        "type": "#warblers",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "New York"
+    },
+    {
+        "tweet_id": "1590702423840112640",
+        "date": "Thu Nov 10 13:46:26 +0000 2022",
+        "user_id": 921335213053108225,
+        "type": "#warblers",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "New York"
+    },
+    {
+        "tweet_id": "1590371444093247488",
+        "date": "Wed Nov 09 15:51:14 +0000 2022",
+        "user_id": 1586296054382829574,
+        "type": "#warblers",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1590368859592462337",
+        "date": "Wed Nov 09 15:40:58 +0000 2022",
+        "user_id": 75688622,
+        "type": "#warblers",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "El Paso,TX"
+    },
+    {
+        "tweet_id": "1590325292786405376",
+        "date": "Wed Nov 09 12:47:51 +0000 2022",
+        "user_id": 17225388,
+        "type": "#warblers",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "USA"
+    },
+    {
+        "tweet_id": "1589977689062080512",
+        "date": "Tue Nov 08 13:46:36 +0000 2022",
+        "user_id": 921335213053108225,
+        "type": "#warblers",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "New York"
+    },
+    {
+        "tweet_id": "1588921480942825472",
+        "date": "Sat Nov 05 15:49:36 +0000 2022",
+        "user_id": 14932633,
+        "type": "#warblers",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Garland, TX"
+    },
+    {
+        "tweet_id": "1588558239905583104",
+        "date": "Fri Nov 04 15:46:13 +0000 2022",
+        "user_id": 921335213053108225,
+        "type": "#warblers",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "New York"
+    },
+    {
+        "tweet_id": "1588290028622344193",
+        "date": "Thu Nov 03 22:00:26 +0000 2022",
+        "user_id": 1586296054382829574,
+        "type": "#warblers",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1588151604255113217",
+        "date": "Thu Nov 03 12:50:23 +0000 2022",
+        "user_id": 8791192,
+        "type": "#warblers",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "York, South Carolina USA"
+    },
+    {
+        "tweet_id": "1587769529643433987",
+        "date": "Wed Nov 02 11:32:09 +0000 2022",
+        "user_id": 1160853746,
+        "type": "#warblers",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "New York, NY"
+    },
+    {
+        "tweet_id": "1587470173136625664",
+        "date": "Tue Nov 01 15:42:37 +0000 2022",
+        "user_id": 1490474535027679232,
+        "type": "#warblers",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Viera, FL"
+    },
+    {
+        "tweet_id": "1587444935795609607",
+        "date": "Tue Nov 01 14:02:20 +0000 2022",
+        "user_id": 1403539728280997891,
+        "type": "#warblers",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Vienna, Virginia, USA"
+    },
+    {
+        "tweet_id": "1587424762971709441",
+        "date": "Tue Nov 01 12:42:11 +0000 2022",
+        "user_id": 1479840059557920768,
+        "type": "#warblers",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Manhattan, NY"
+    },
+    {
+        "tweet_id": "1587413525638545409",
+        "date": "Tue Nov 01 11:57:31 +0000 2022",
+        "user_id": 1586296054382829574,
+        "type": "#warblers",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1595323035447279617",
+        "date": "Wed Nov 23 07:47:05 +0000 2022",
+        "user_id": 1447424998650507269,
+        "type": "#orioles",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\ud83d\udc47MLB\u30a2\u30f3\u30c6\u30ca\ud83d\udc47"
+    },
+    {
+        "tweet_id": "1595323034402856960",
+        "date": "Wed Nov 23 07:47:05 +0000 2022",
+        "user_id": 1447424998650507269,
+        "type": "#orioles",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\ud83d\udc47MLB\u30a2\u30f3\u30c6\u30ca\ud83d\udc47"
+    },
+    {
+        "tweet_id": "1595311329757249538",
+        "date": "Wed Nov 23 07:00:35 +0000 2022",
+        "user_id": 153042308,
+        "type": "#orioles",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Minneapolis, MN"
+    },
+    {
+        "tweet_id": "1595307948133462016",
+        "date": "Wed Nov 23 06:47:08 +0000 2022",
+        "user_id": 1447424998650507269,
+        "type": "#orioles",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\ud83d\udc47MLB\u30a2\u30f3\u30c6\u30ca\ud83d\udc47"
+    },
+    {
+        "tweet_id": "1595307947118108673",
+        "date": "Wed Nov 23 06:47:08 +0000 2022",
+        "user_id": 1447424998650507269,
+        "type": "#orioles",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\ud83d\udc47MLB\u30a2\u30f3\u30c6\u30ca\ud83d\udc47"
+    },
+    {
+        "tweet_id": "1595302184031330306",
+        "date": "Wed Nov 23 06:24:14 +0000 2022",
+        "user_id": 1233115505239764994,
+        "type": "#orioles",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1595292835061768192",
+        "date": "Wed Nov 23 05:47:05 +0000 2022",
+        "user_id": 1447424998650507269,
+        "type": "#orioles",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\ud83d\udc47MLB\u30a2\u30f3\u30c6\u30ca\ud83d\udc47"
+    },
+    {
+        "tweet_id": "1595292834089041920",
+        "date": "Wed Nov 23 05:47:05 +0000 2022",
+        "user_id": 1447424998650507269,
+        "type": "#orioles",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\ud83d\udc47MLB\u30a2\u30f3\u30c6\u30ca\ud83d\udc47"
+    },
+    {
+        "tweet_id": "1595277741703585792",
+        "date": "Wed Nov 23 04:47:07 +0000 2022",
+        "user_id": 1447424998650507269,
+        "type": "#orioles",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\ud83d\udc47MLB\u30a2\u30f3\u30c6\u30ca\ud83d\udc47"
+    },
+    {
+        "tweet_id": "1595277740655005696",
+        "date": "Wed Nov 23 04:47:06 +0000 2022",
+        "user_id": 1447424998650507269,
+        "type": "#orioles",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\ud83d\udc47MLB\u30a2\u30f3\u30c6\u30ca\ud83d\udc47"
+    },
+    {
+        "tweet_id": "1595262646844293120",
+        "date": "Wed Nov 23 03:47:08 +0000 2022",
+        "user_id": 1447424998650507269,
+        "type": "#orioles",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\ud83d\udc47MLB\u30a2\u30f3\u30c6\u30ca\ud83d\udc47"
+    },
+    {
+        "tweet_id": "1595262645883768832",
+        "date": "Wed Nov 23 03:47:07 +0000 2022",
+        "user_id": 1447424998650507269,
+        "type": "#orioles",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\ud83d\udc47MLB\u30a2\u30f3\u30c6\u30ca\ud83d\udc47"
+    },
+    {
+        "tweet_id": "1595252495521136640",
+        "date": "Wed Nov 23 03:06:47 +0000 2022",
+        "user_id": 479361921,
+        "type": "#orioles",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Baltimore, Md"
+    },
+    {
+        "tweet_id": "1595247543990247425",
+        "date": "Wed Nov 23 02:47:07 +0000 2022",
+        "user_id": 1447424998650507269,
+        "type": "#orioles",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\ud83d\udc47MLB\u30a2\u30f3\u30c6\u30ca\ud83d\udc47"
+    },
+    {
+        "tweet_id": "1595247543025532929",
+        "date": "Wed Nov 23 02:47:07 +0000 2022",
+        "user_id": 1447424998650507269,
+        "type": "#orioles",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\ud83d\udc47MLB\u30a2\u30f3\u30c6\u30ca\ud83d\udc47"
+    },
+    {
+        "tweet_id": "1595235861225799680",
+        "date": "Wed Nov 23 02:00:42 +0000 2022",
+        "user_id": 2613200317,
+        "type": "#orioles",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Phoenix, AZ"
+    },
+    {
+        "tweet_id": "1595233773607682051",
+        "date": "Wed Nov 23 01:52:24 +0000 2022",
+        "user_id": 252808334,
+        "type": "#orioles",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1595232193223135232",
+        "date": "Wed Nov 23 01:46:07 +0000 2022",
+        "user_id": 1447424998650507269,
+        "type": "#orioles",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\ud83d\udc47MLB\u30a2\u30f3\u30c6\u30ca\ud83d\udc47"
+    },
+    {
+        "tweet_id": "1595232192174563329",
+        "date": "Wed Nov 23 01:46:07 +0000 2022",
+        "user_id": 1447424998650507269,
+        "type": "#orioles",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\ud83d\udc47MLB\u30a2\u30f3\u30c6\u30ca\ud83d\udc47"
+    },
+    {
+        "tweet_id": "1595217091287691264",
+        "date": "Wed Nov 23 00:46:06 +0000 2022",
+        "user_id": 1447424998650507269,
+        "type": "#orioles",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\ud83d\udc47MLB\u30a2\u30f3\u30c6\u30ca\ud83d\udc47"
+    },
+    {
+        "tweet_id": "1595217090281365504",
+        "date": "Wed Nov 23 00:46:06 +0000 2022",
+        "user_id": 1447424998650507269,
+        "type": "#orioles",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\ud83d\udc47MLB\u30a2\u30f3\u30c6\u30ca\ud83d\udc47"
+    },
+    {
+        "tweet_id": "1595213371653046272",
+        "date": "Wed Nov 23 00:31:20 +0000 2022",
+        "user_id": 1490178820409675784,
+        "type": "#orioles",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1595210378992025600",
+        "date": "Wed Nov 23 00:19:26 +0000 2022",
+        "user_id": 73671117,
+        "type": "#orioles",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Maryland Baby"
+    },
+    {
+        "tweet_id": "1595201895278125058",
+        "date": "Tue Nov 22 23:45:43 +0000 2022",
+        "user_id": 1447424998650507269,
+        "type": "#orioles",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\ud83d\udc47MLB\u30a2\u30f3\u30c6\u30ca\ud83d\udc47"
+    },
+    {
+        "tweet_id": "1595201894330568704",
+        "date": "Tue Nov 22 23:45:43 +0000 2022",
+        "user_id": 1447424998650507269,
+        "type": "#orioles",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\ud83d\udc47MLB\u30a2\u30f3\u30c6\u30ca\ud83d\udc47"
+    },
+    {
+        "tweet_id": "1595196723969892353",
+        "date": "Tue Nov 22 23:25:10 +0000 2022",
+        "user_id": 23316498,
+        "type": "#orioles",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Baltimore, MD"
+    },
+    {
+        "tweet_id": "1595192380998574080",
+        "date": "Tue Nov 22 23:07:55 +0000 2022",
+        "user_id": 699738316732641280,
+        "type": "#orioles",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1595190744309956609",
+        "date": "Tue Nov 22 23:01:25 +0000 2022",
+        "user_id": 42036353,
+        "type": "#orioles",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "974 Teaneck Rd Teaneck, NJ"
+    },
+    {
+        "tweet_id": "1595190453049372672",
+        "date": "Tue Nov 22 23:00:15 +0000 2022",
+        "user_id": 963992961523560448,
+        "type": "#orioles",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1595187321007214592",
+        "date": "Tue Nov 22 22:47:49 +0000 2022",
+        "user_id": 1241636323644960769,
+        "type": "#orioles",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Baltimore"
+    },
+    {
+        "tweet_id": "1595186819179900928",
+        "date": "Tue Nov 22 22:45:49 +0000 2022",
+        "user_id": 1447424998650507269,
+        "type": "#orioles",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\ud83d\udc47MLB\u30a2\u30f3\u30c6\u30ca\ud83d\udc47"
+    },
+    {
+        "tweet_id": "1595186818198441985",
+        "date": "Tue Nov 22 22:45:49 +0000 2022",
+        "user_id": 1447424998650507269,
+        "type": "#orioles",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\ud83d\udc47MLB\u30a2\u30f3\u30c6\u30ca\ud83d\udc47"
+    },
+    {
+        "tweet_id": "1595181003425075200",
+        "date": "Tue Nov 22 22:22:42 +0000 2022",
+        "user_id": 963992961523560448,
+        "type": "#orioles",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1595181003135668224",
+        "date": "Tue Nov 22 22:22:42 +0000 2022",
+        "user_id": 963992961523560448,
+        "type": "#orioles",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1595171685116039168",
+        "date": "Tue Nov 22 21:45:41 +0000 2022",
+        "user_id": 1447424998650507269,
+        "type": "#orioles",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\ud83d\udc47MLB\u30a2\u30f3\u30c6\u30ca\ud83d\udc47"
+    },
+    {
+        "tweet_id": "1595171684083855360",
+        "date": "Tue Nov 22 21:45:40 +0000 2022",
+        "user_id": 1447424998650507269,
+        "type": "#orioles",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "\ud83d\udc47MLB\u30a2\u30f3\u30c6\u30ca\ud83d\udc47"
+    },
+    {
+        "tweet_id": "1595169986066190357",
+        "date": "Tue Nov 22 21:38:56 +0000 2022",
+        "user_id": 1175088891944210434,
+        "type": "#orioles",
+        "geo": null,
+        "coordinates": null,
+        "user_location": null
+    },
+    {
+        "tweet_id": "1595169219431305236",
+        "date": "Tue Nov 22 21:35:53 +0000 2022",
+        "user_id": 1461877461889822720,
+        "type": "#orioles",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Gainesville, FL"
+    },
+    {
+        "tweet_id": "1587977862581084160",
+        "date": "Thu Nov 03 01:20:00 +0000 2022",
+        "user_id": 45532785,
+        "type": "#buntings",
+        "geo": null,
+        "coordinates": null,
+        "user_location": "Melbourne, Australia"
+    }
+]

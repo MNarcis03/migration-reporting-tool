@@ -5,11 +5,11 @@ from tw import authentification, parse_tweets, query_30_day, location_to_coord, 
 
 class TestMethods(unittest.TestCase):
     def test_authentification(self):
-        load_dotenv("D:\\personal\\bird\\.env")
+        load_dotenv(".env")
         self.assertIsNotNone(authentification())
 
     def test_query(self):
-        load_dotenv("D:\\personal\\bird\\.env")
+        load_dotenv(".env")
         client = authentification()
         query_30_day(client)
         self.assertGreater(len(parsedTweets), 0)

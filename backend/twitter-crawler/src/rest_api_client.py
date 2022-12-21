@@ -5,23 +5,17 @@ from bird_migration_model import BirdMigrationModel
 
 
 class RestApiClient(metaclass = SingletonMeta):
-    __ENV_FILE_PATH = ".env"
-    __HOST_KEY = "INTERNAL_REST_API_HOST"
-    __PORT_KEY = "INTERNAL_REST_API_PORT"
-    __POST_ROUTE_KEY = "INTERNAL_REST_API_POST_ROUTE"
+    __HOST = None
+    __PORT = None
+    __ROUTE = None
     __url = None
 
 
     def __init__(self):
-        config = dotenv_values(self.__ENV_FILE_PATH)
-
-        if None != config:
-            host = config[self.__HOST_KEY]
-            port = config[self.__PORT_KEY]
-            route = config[self.__POST_ROUTE_KEY]
-
-            if None != host and None != port and None != route:
-                self.__url = host + ":" + port + route
+        self.__HOST = "http://127.0.0.1"
+        self.__PORT = "3000"
+        self.__ROUTE = "/birdMigration"
+        self.__url = self.__HOST + ":" + self.__PORT + self.__ROUTE
 
 
     def post(self, _model):
