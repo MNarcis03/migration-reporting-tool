@@ -24,7 +24,9 @@ const MapPage: FC<MapPageProps> = () => {
     
     const updateDate = (date: Dayjs) => {
         console.log('date updated', date);
-        mapComponentRef.current.generateRandomBirds();
+        console.log('year:', date.year());
+        console.log('month:', date.month());
+        mapComponentRef.current.generateRandomBirds(date.year(), date.month() + 1);
     }
     
 

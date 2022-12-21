@@ -1,1 +1,23 @@
-.Statistics {}
+.statistics {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 2rem;
+    width: 60vw;
+    margin: 2rem;
+    
+    .card {
+        min-width: 200px;
+        max-width: 300px;
+        padding: 1rem 2rem;
+        
+        .locations {
+            display: -webkit-box;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+        }
+    }
+}

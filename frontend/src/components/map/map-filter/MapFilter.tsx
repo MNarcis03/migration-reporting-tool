@@ -23,13 +23,13 @@ class MapFilter extends React.Component<MapFilterProps, MapFilterState> {
         this.datePicked = this.datePicked.bind(this);
         
         this.state = {
-            date: dayjs('2022-04-07')
+            date: dayjs('2022-12-01')
         }
     }
 
     @ActionLog('date selection')
     datePicked(newDate: Dayjs | null) {
-        const theDate = newDate ? newDate : dayjs('2022-04-07');
+        const theDate = newDate ? newDate : dayjs('2022-12-01');
         this.setState(() => {
             return {
                 date: theDate

@@ -1,0 +1,20 @@
+export enum TagsIdsEnum {
+    BIRD = 'bird',
+    BUNTINGS = 'buntings',
+    CUCKOOS = 'cuckoos',
+    DOVES = 'doves',
+    DUCKS = 'ducks',
+    FLYCATCHERS = 'flycatchers',
+    FLAMINGOS = 'flamingos',
+    FINCHES = 'finches',
+    GREBES = 'grebes',
+    ORIOLES = 'orioles',
+    PELICANS = 'pelicans',
+    STORKS = 'storks',
+    SWALLOW = 'swallow',
+    SWIFTS = 'swifts',
+    THRUSHES = 'thrushes',
+    WARBLERS = 'warblers',
+    WATERBIRDS = 'waterbirds',
+    
+}

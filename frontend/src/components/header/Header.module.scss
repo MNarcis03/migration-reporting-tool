@@ -5,7 +5,7 @@
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    width: 100vmax;
+    width: 100%;
     height: 10vh;
     padding: 0 2rem;
     background-color: $surface;
@@ -50,6 +50,7 @@
                 padding: 2rem;
 
                 span {
+                    border-bottom: 2px solid transparent;
                     font-size: 1.5rem;
                     font-weight: bold;
                     letter-spacing: 1px;
@@ -63,12 +64,13 @@
                     color: $primary;
                 }
             }
+            
+            .active {
+                border-bottom: 2px solid $primary;
+                color: $primary;
+            }
         }
         
-        button.active {
-            border-bottom: 2px solid $primary;
-            color: $primary;
-        }
     }
 
     .settings {

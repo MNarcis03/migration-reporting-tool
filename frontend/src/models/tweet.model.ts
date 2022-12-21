@@ -1,11 +1,11 @@
 export interface TweetModel {
-    id: string;
-    tweet_id: string;
-    caption: string;
-    image_url: string;
+    id: number;
+    species: string;
+    appearances: number;
     location: string;
-    time_and_date: string;
-    bird_species: string;
+    latitude: number;
+    longitude: number;
     created_at: string;
     updated_at: string;
+    date: string;
 }

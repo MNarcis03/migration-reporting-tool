@@ -1,7 +1,7 @@
 import React, { FC, useState } from 'react';
 import { ReactComponent as Logo } from './logo.svg';
 import styles from './Header.module.scss';
-import { Link, useNavigate, useNavigation } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 
 interface HeaderProps { }
 
@@ -28,14 +28,14 @@ const Header: FC<HeaderProps> = () => {
             <div className={styles.menu}>
                 <button onClick={ goToStatistics }>
                     <div>
-                        <span className={ route === 'statistics' ? '.active' : '' }>
+                        <span className={ route === 'statistics' ? styles.active : '' }>
                             Statistics
                         </span>
                     </div>
                 </button>
                 <button onClick={ goToMap }>
                     <div>
-                        <span className={ route === 'map' ? '.active' : '' }>
+                        <span className={ route === 'map' ? styles.active : '' }>
                             Map
                         </span>
                     </div>
@@ -43,7 +43,7 @@ const Header: FC<HeaderProps> = () => {
             </div>
             <div className={styles.settings}></div>
         </header>
-    )
+    );
 };
 
 export default Header;

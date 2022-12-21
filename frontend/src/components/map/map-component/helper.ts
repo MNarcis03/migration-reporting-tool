@@ -1,4 +1,5 @@
 import { LatLngTuple } from "leaflet";
+import { TagsIdsEnum } from "../../../models/tags-ids.enum";
 
 export const widthForZeroZoom = 256;
 export const heightForZeroZoom = 256;
@@ -19,4 +20,16 @@ export function checkPointInsideCircle(circleX: number, circleY: number, radius:
     circleY *= 2;
     y *= 2;
     return (x - circleX) * (x - circleX) + (y - circleY) * (y - circleY) <= radius * radius;
+}
+
+export function extractTagsIntoEnumList(tags: string): string[] {
+    const list: string[] = ['bird'];
+    if(!tags) return [];
+    // @ts-ignore
+    tags.match(/\w+/g).map((tagName: string) => {
+        // @ts-ignore
+        list.push(TagsIdsEnum[tagName.toUpperCase()]);
+        return tagName;
+    });
+    return list;
 }
