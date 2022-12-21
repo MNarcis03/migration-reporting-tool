@@ -1,4 +1,3 @@
-// const mysql = require('mysql2/promise');
 const mysql = require('mysql2/promise');
 const config = require('../configs/db.config');
 

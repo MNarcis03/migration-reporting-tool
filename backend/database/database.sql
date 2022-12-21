@@ -6,6 +6,7 @@ CREATE TABLE `bird_migration`
   `location`      VARCHAR(64) NOT NULL ,
   `latitude`      VARCHAR(64) NOT NULL ,
   `longitude`     VARCHAR(64) NOT NULL ,
+  `date`          DATE NOT NULL ,
   `created_at`    DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP ,
   `updated_at`    DATETIME on UPDATE CURRENT_TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ,
   PRIMARY KEY (`id`)

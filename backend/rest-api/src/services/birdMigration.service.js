@@ -22,9 +22,9 @@ async function create(birdMigration) {
   var values = [ birdMigration ];
 
   const result = await db.query(
-    `INSERT INTO bird_migration (species, appearances, location, latitude, longitude) VALUES \
+    `INSERT INTO bird_migration (species, appearances, location, latitude, longitude, date) VALUES \
     ('${birdMigration.species}', '${birdMigration.appearances}', '${birdMigration.location}', \
-    '${birdMigration.latitude}', '${birdMigration.longitude}')`
+    '${birdMigration.latitude}', '${birdMigration.longitude}', '${birdMigration.date}')`
   );
 
   let message = 'Error in creating bird migration';
@@ -44,6 +44,7 @@ async function update(id, birdMigration) {
     location='${birdMigration.location}', \
     latitude='${birdMigration.latitude}', \
     longitude='${birdMigration.longitude}', \
+    date='${birdMigration.date}' \
     WHERE id=${id}`
   );
 
