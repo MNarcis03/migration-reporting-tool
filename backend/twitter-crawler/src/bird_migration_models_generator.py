@@ -1,5 +1,6 @@
 import json
 import os.path
+import random
 from singleton_meta import SingletonMeta
 from bird_migration_model import BirdMigrationModel
 
@@ -9,6 +10,7 @@ class BirdMigrationModelsGenerator(metaclass = SingletonMeta):
     __LOCATION_KEY = "location"
     __LATITUDE_KEY = "latitude"
     __LONGITUDE_KEY = "longitude"
+    __DATE_KEY = "date"
     __path = None
 
 
@@ -37,6 +39,21 @@ class BirdMigrationModelsGenerator(metaclass = SingletonMeta):
 
         return data
 
+    
+    def __generate_date(self):
+        date = None
+
+        year = "2022"
+        month = str(random.randint(1, 12))
+        day = str(random.randint(10, 28))
+
+        if 1 == len(month):
+            month = "0" + month
+
+        date = year + "-" + month + "-" + day
+
+        return date
+
 
     def __filter(self, _item):
         appearances = None
@@ -44,6 +61,7 @@ class BirdMigrationModelsGenerator(metaclass = SingletonMeta):
         latitude = None
         longitude = None
         species = ""
+        date = None
 
         for key, value in _item.items():
             if self.__APPEARANCES_KEY == key:
@@ -57,15 +75,17 @@ class BirdMigrationModelsGenerator(metaclass = SingletonMeta):
             else: # Append SPECIES_KEY
                 species += key
 
-        return species, appearances, location, latitude, longitude
+        date = self.__generate_date()
+
+        return species, appearances, location, latitude, longitude, date
 
 
     def __generate(self, _species, _appearances,
-        _location, _latitude, _longitude):
+        _location, _latitude, _longitude, _date):
         model = BirdMigrationModel()
 
         generated = model.set_model(_species, _appearances,
-            _location, _latitude, _longitude)
+            _location, _latitude, _longitude, _date)
 
         if generated: return model
         else: return None
@@ -79,8 +99,8 @@ class BirdMigrationModelsGenerator(metaclass = SingletonMeta):
 
             if None != data:
                 for item in data:
-                    species, appearances, location, latitude, longitude = self.__filter(item)
-                    model = self.__generate(species, appearances, location, latitude, longitude)
+                    species, appearances, location, latitude, longitude, date = self.__filter(item)
+                    model = self.__generate(species, appearances, location, latitude, longitude, date)
 
                     if None != model:
                         models.append(model)
