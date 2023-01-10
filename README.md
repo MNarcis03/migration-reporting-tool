@@ -6,3 +6,4 @@
 #
 ### [Documents - Google Drive](https://drive.google.com/drive/folders/1kM9g3NTN-8FN1DkoNH7q3GiSIKaKsq4h)
 #
+### [Technical report](https://docs.google.com/document/d/1nZwrQ1ibPfJGF4MruNVSCAziWTcBRmjk3PZXr8D26JI)
